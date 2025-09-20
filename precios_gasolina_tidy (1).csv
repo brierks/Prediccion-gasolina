@@ -1,0 +1,3301 @@
+estado,año,mes,precio
+Aguascalientes,2017,1,16.19
+Aguascalientes,2017,2,16.18
+Aguascalientes,2017,3,16.1
+Aguascalientes,2017,4,16.12
+Aguascalientes,2017,5,16.03
+Aguascalientes,2017,6,15.93
+Aguascalientes,2017,7,15.86
+Aguascalientes,2017,8,15.92
+Aguascalientes,2017,9,16.15
+Aguascalientes,2017,10,16.28
+Aguascalientes,2017,11,16.36
+Aguascalientes,2017,12,16.48
+Aguascalientes,2018,1,17.17
+Aguascalientes,2018,2,18.0
+Aguascalientes,2018,3,18.26
+Aguascalientes,2018,4,18.34
+Aguascalientes,2018,5,18.46
+Aguascalientes,2018,6,18.65
+Aguascalientes,2018,7,19.02
+Aguascalientes,2018,8,19.55
+Aguascalientes,2018,9,19.8
+Aguascalientes,2018,10,20.0
+Aguascalientes,2018,11,20.0
+Aguascalientes,2018,12,19.81
+Aguascalientes,2019,1,19.64
+Aguascalientes,2019,2,20.08
+Aguascalientes,2019,3,20.34
+Aguascalientes,2019,4,19.85
+Aguascalientes,2019,5,19.75
+Aguascalientes,2019,6,19.65
+Aguascalientes,2019,7,19.71
+Aguascalientes,2019,8,19.67
+Aguascalientes,2019,9,19.74
+Aguascalientes,2019,10,19.79
+Aguascalientes,2019,11,19.85
+Aguascalientes,2019,12,19.92
+Aguascalientes,2020,1,19.97
+Aguascalientes,2020,2,19.96
+Aguascalientes,2020,3,18.39
+Aguascalientes,2020,4,15.36
+Aguascalientes,2020,5,16.57
+Aguascalientes,2020,6,18.01
+Aguascalientes,2020,7,19.2
+Aguascalientes,2020,8,19.3
+Aguascalientes,2020,9,19.08
+Aguascalientes,2020,10,18.68
+Aguascalientes,2020,11,17.94
+Aguascalientes,2020,12,18.18
+Aguascalientes,2021,1,19.27
+Aguascalientes,2021,2,20.17
+Aguascalientes,2021,3,20.46
+Aguascalientes,2021,4,20.53
+Aguascalientes,2021,5,20.46
+Aguascalientes,2021,6,20.47
+Aguascalientes,2021,7,20.55
+Aguascalientes,2021,8,20.5
+Aguascalientes,2021,9,20.25
+Aguascalientes,2021,10,20.2
+Aguascalientes,2021,11,20.09
+Aguascalientes,2021,12,20.26
+Aguascalientes,2022,1,20.62
+Aguascalientes,2022,2,20.81
+Aguascalientes,2022,3,21.25
+Aguascalientes,2022,4,21.48
+Aguascalientes,2022,5,21.8
+Aguascalientes,2022,6,21.81
+Aguascalientes,2022,7,21.7
+Aguascalientes,2022,8,21.64
+Aguascalientes,2022,9,21.4
+Aguascalientes,2022,10,21.57
+Aguascalientes,2022,11,21.52
+Aguascalientes,2022,12,21.22
+Aguascalientes,2023,1,21.51
+Aguascalientes,2023,2,21.59
+Aguascalientes,2023,3,21.63
+Aguascalientes,2023,4,21.77
+Aguascalientes,2023,5,21.76
+Aguascalientes,2023,6,21.97
+Aguascalientes,2023,7,22.05
+Aguascalientes,2023,8,22.24
+Aguascalientes,2023,9,22.32
+Aguascalientes,2023,10,22.4
+Aguascalientes,2023,11,22.44
+Aguascalientes,2023,12,22.43
+Aguascalientes,2024,1,22.58
+Aguascalientes,2024,2,23.11
+Aguascalientes,2024,3,23.3
+Aguascalientes,2024,4,23.39
+Aguascalientes,2024,5,23.53
+Aguascalientes,2024,6,23.63
+Aguascalientes,2024,7,23.98
+Aguascalientes,2024,8,24.28
+Aguascalientes,2024,9,24.36
+Aguascalientes,2024,10,24.38
+Aguascalientes,2024,11,24.37
+Aguascalientes,2024,12,24.39
+Aguascalientes,2025,1,24.68
+Aguascalientes,2025,2,24.7
+Aguascalientes,2025,3,24.07
+Aguascalientes,2025,4,23.93
+Baja California,2017,1,16.07
+Baja California,2017,2,16.04
+Baja California,2017,3,15.85
+Baja California,2017,4,15.87
+Baja California,2017,5,15.83
+Baja California,2017,6,15.81
+Baja California,2017,7,15.71
+Baja California,2017,8,15.8
+Baja California,2017,9,15.98
+Baja California,2017,10,16.12
+Baja California,2017,11,16.27
+Baja California,2017,12,16.38
+Baja California,2018,1,16.8
+Baja California,2018,2,17.31
+Baja California,2018,3,17.53
+Baja California,2018,4,17.67
+Baja California,2018,5,17.81
+Baja California,2018,6,18.08
+Baja California,2018,7,18.49
+Baja California,2018,8,19.03
+Baja California,2018,9,19.36
+Baja California,2018,10,19.57
+Baja California,2018,11,19.61
+Baja California,2018,12,19.4
+Baja California,2019,1,18.04
+Baja California,2019,2,18.17
+Baja California,2019,3,18.56
+Baja California,2019,4,18.49
+Baja California,2019,5,18.43
+Baja California,2019,6,18.34
+Baja California,2019,7,18.37
+Baja California,2019,8,18.17
+Baja California,2019,9,18.2
+Baja California,2019,10,18.09
+Baja California,2019,11,18.0
+Baja California,2019,12,18.0
+Baja California,2020,1,18.3
+Baja California,2020,2,18.37
+Baja California,2020,3,17.18
+Baja California,2020,4,14.19
+Baja California,2020,5,15.53
+Baja California,2020,6,17.15
+Baja California,2020,7,17.94
+Baja California,2020,8,17.85
+Baja California,2020,9,17.71
+Baja California,2020,10,17.38
+Baja California,2020,11,16.39
+Baja California,2020,12,16.58
+Baja California,2021,1,17.84
+Baja California,2021,2,18.78
+Baja California,2021,3,19.08
+Baja California,2021,4,19.24
+Baja California,2021,5,19.38
+Baja California,2021,6,19.43
+Baja California,2021,7,19.39
+Baja California,2021,8,19.43
+Baja California,2021,9,19.42
+Baja California,2021,10,19.4
+Baja California,2021,11,19.31
+Baja California,2021,12,19.38
+Baja California,2022,1,19.68
+Baja California,2022,2,20.0
+Baja California,2022,3,20.48
+Baja California,2022,4,21.11
+Baja California,2022,5,21.28
+Baja California,2022,6,21.3
+Baja California,2022,7,21.12
+Baja California,2022,8,21.19
+Baja California,2022,9,21.08
+Baja California,2022,10,21.2
+Baja California,2022,11,21.07
+Baja California,2022,12,20.69
+Baja California,2023,1,20.98
+Baja California,2023,2,21.06
+Baja California,2023,3,21.16
+Baja California,2023,4,21.28
+Baja California,2023,5,21.16
+Baja California,2023,6,21.26
+Baja California,2023,7,21.38
+Baja California,2023,8,21.43
+Baja California,2023,9,21.42
+Baja California,2023,10,21.5
+Baja California,2023,11,21.37
+Baja California,2023,12,21.35
+Baja California,2024,1,21.6
+Baja California,2024,2,22.36
+Baja California,2024,3,22.74
+Baja California,2024,4,22.9
+Baja California,2024,5,23.01
+Baja California,2024,6,23.19
+Baja California,2024,7,23.38
+Baja California,2024,8,23.53
+Baja California,2024,9,23.53
+Baja California,2024,10,23.45
+Baja California,2024,11,23.51
+Baja California,2024,12,23.61
+Baja California,2025,1,23.87
+Baja California,2025,2,23.73
+Baja California,2025,3,23.35
+Baja California,2025,4,23.22
+Baja California Sur,2017,1,16.11
+Baja California Sur,2017,2,16.07
+Baja California Sur,2017,3,16.0
+Baja California Sur,2017,4,16.02
+Baja California Sur,2017,5,15.93
+Baja California Sur,2017,6,15.83
+Baja California Sur,2017,7,15.75
+Baja California Sur,2017,8,15.82
+Baja California Sur,2017,9,16.04
+Baja California Sur,2017,10,16.17
+Baja California Sur,2017,11,16.34
+Baja California Sur,2017,12,16.55
+Baja California Sur,2018,1,16.97
+Baja California Sur,2018,2,17.37
+Baja California Sur,2018,3,17.58
+Baja California Sur,2018,4,17.67
+Baja California Sur,2018,5,17.85
+Baja California Sur,2018,6,18.11
+Baja California Sur,2018,7,18.47
+Baja California Sur,2018,8,19.05
+Baja California Sur,2018,9,19.34
+Baja California Sur,2018,10,19.56
+Baja California Sur,2018,11,19.63
+Baja California Sur,2018,12,19.53
+Baja California Sur,2019,1,19.27
+Baja California Sur,2019,2,19.59
+Baja California Sur,2019,3,20.38
+Baja California Sur,2019,4,20.39
+Baja California Sur,2019,5,20.4
+Baja California Sur,2019,6,20.43
+Baja California Sur,2019,7,20.56
+Baja California Sur,2019,8,20.59
+Baja California Sur,2019,9,20.64
+Baja California Sur,2019,10,20.64
+Baja California Sur,2019,11,20.64
+Baja California Sur,2019,12,20.68
+Baja California Sur,2020,1,20.76
+Baja California Sur,2020,2,20.7
+Baja California Sur,2020,3,18.91
+Baja California Sur,2020,4,15.92
+Baja California Sur,2020,5,17.31
+Baja California Sur,2020,6,18.95
+Baja California Sur,2020,7,19.67
+Baja California Sur,2020,8,19.51
+Baja California Sur,2020,9,19.54
+Baja California Sur,2020,10,19.39
+Baja California Sur,2020,11,18.74
+Baja California Sur,2020,12,18.65
+Baja California Sur,2021,1,19.76
+Baja California Sur,2021,2,20.6
+Baja California Sur,2021,3,20.73
+Baja California Sur,2021,4,20.64
+Baja California Sur,2021,5,20.6
+Baja California Sur,2021,6,20.63
+Baja California Sur,2021,7,20.74
+Baja California Sur,2021,8,20.79
+Baja California Sur,2021,9,20.85
+Baja California Sur,2021,10,20.85
+Baja California Sur,2021,11,20.76
+Baja California Sur,2021,12,20.84
+Baja California Sur,2022,1,21.21
+Baja California Sur,2022,2,21.4
+Baja California Sur,2022,3,21.62
+Baja California Sur,2022,4,21.7
+Baja California Sur,2022,5,21.75
+Baja California Sur,2022,6,21.82
+Baja California Sur,2022,7,22.05
+Baja California Sur,2022,8,22.42
+Baja California Sur,2022,9,22.53
+Baja California Sur,2022,10,22.75
+Baja California Sur,2022,11,22.65
+Baja California Sur,2022,12,22.57
+Baja California Sur,2023,1,22.87
+Baja California Sur,2023,2,22.97
+Baja California Sur,2023,3,23.05
+Baja California Sur,2023,4,22.99
+Baja California Sur,2023,5,23.07
+Baja California Sur,2023,6,23.29
+Baja California Sur,2023,7,23.42
+Baja California Sur,2023,8,23.42
+Baja California Sur,2023,9,23.38
+Baja California Sur,2023,10,23.47
+Baja California Sur,2023,11,23.51
+Baja California Sur,2023,12,23.32
+Baja California Sur,2024,1,23.51
+Baja California Sur,2024,2,24.08
+Baja California Sur,2024,3,24.51
+Baja California Sur,2024,4,24.79
+Baja California Sur,2024,5,24.86
+Baja California Sur,2024,6,25.01
+Baja California Sur,2024,7,25.22
+Baja California Sur,2024,8,25.49
+Baja California Sur,2024,9,25.64
+Baja California Sur,2024,10,25.47
+Baja California Sur,2024,11,25.45
+Baja California Sur,2024,12,25.4
+Baja California Sur,2025,1,25.42
+Baja California Sur,2025,2,25.3
+Baja California Sur,2025,3,24.45
+Baja California Sur,2025,4,24.29
+Campeche,2017,1,15.67
+Campeche,2017,2,15.65
+Campeche,2017,3,15.56
+Campeche,2017,4,15.59
+Campeche,2017,5,15.49
+Campeche,2017,6,15.39
+Campeche,2017,7,15.32
+Campeche,2017,8,15.38
+Campeche,2017,9,15.6
+Campeche,2017,10,15.72
+Campeche,2017,11,15.81
+Campeche,2017,12,15.99
+Campeche,2018,1,16.67
+Campeche,2018,2,17.26
+Campeche,2018,3,17.43
+Campeche,2018,4,17.53
+Campeche,2018,5,17.7
+Campeche,2018,6,17.98
+Campeche,2018,7,18.39
+Campeche,2018,8,19.0
+Campeche,2018,9,19.24
+Campeche,2018,10,19.44
+Campeche,2018,11,19.46
+Campeche,2018,12,19.39
+Campeche,2019,1,19.18
+Campeche,2019,2,19.44
+Campeche,2019,3,19.91
+Campeche,2019,4,19.75
+Campeche,2019,5,19.69
+Campeche,2019,6,19.66
+Campeche,2019,7,19.62
+Campeche,2019,8,19.62
+Campeche,2019,9,19.69
+Campeche,2019,10,19.54
+Campeche,2019,11,19.48
+Campeche,2019,12,19.62
+Campeche,2020,1,19.73
+Campeche,2020,2,19.59
+Campeche,2020,3,18.61
+Campeche,2020,4,16.02
+Campeche,2020,5,16.72
+Campeche,2020,6,18.24
+Campeche,2020,7,19.34
+Campeche,2020,8,19.43
+Campeche,2020,9,19.31
+Campeche,2020,10,19.22
+Campeche,2020,11,18.83
+Campeche,2020,12,18.89
+Campeche,2021,1,19.82
+Campeche,2021,2,20.69
+Campeche,2021,3,21.05
+Campeche,2021,4,21.08
+Campeche,2021,5,21.06
+Campeche,2021,6,21.13
+Campeche,2021,7,21.29
+Campeche,2021,8,21.4
+Campeche,2021,9,21.49
+Campeche,2021,10,21.62
+Campeche,2021,11,21.62
+Campeche,2021,12,21.69
+Campeche,2022,1,21.91
+Campeche,2022,2,22.23
+Campeche,2022,3,22.58
+Campeche,2022,4,22.6
+Campeche,2022,5,22.67
+Campeche,2022,6,22.73
+Campeche,2022,7,22.81
+Campeche,2022,8,22.93
+Campeche,2022,9,23.06
+Campeche,2022,10,23.23
+Campeche,2022,11,23.33
+Campeche,2022,12,23.26
+Campeche,2023,1,23.16
+Campeche,2023,2,23.01
+Campeche,2023,3,22.99
+Campeche,2023,4,23.0
+Campeche,2023,5,22.97
+Campeche,2023,6,22.96
+Campeche,2023,7,22.98
+Campeche,2023,8,23.14
+Campeche,2023,9,23.31
+Campeche,2023,10,23.3
+Campeche,2023,11,23.33
+Campeche,2023,12,23.15
+Campeche,2024,1,23.17
+Campeche,2024,2,23.44
+Campeche,2024,3,23.68
+Campeche,2024,4,24.01
+Campeche,2024,5,24.15
+Campeche,2024,6,24.13
+Campeche,2024,7,24.34
+Campeche,2024,8,24.5
+Campeche,2024,9,24.59
+Campeche,2024,10,24.56
+Campeche,2024,11,24.47
+Campeche,2024,12,24.56
+Campeche,2025,1,24.68
+Campeche,2025,2,24.64
+Campeche,2025,3,24.05
+Campeche,2025,4,23.98
+Chiapas,2017,1,15.86
+Chiapas,2017,2,15.85
+Chiapas,2017,3,15.76
+Chiapas,2017,4,15.78
+Chiapas,2017,5,15.69
+Chiapas,2017,6,15.59
+Chiapas,2017,7,15.51
+Chiapas,2017,8,15.58
+Chiapas,2017,9,15.81
+Chiapas,2017,10,15.93
+Chiapas,2017,11,16.01
+Chiapas,2017,12,16.16
+Chiapas,2018,1,16.68
+Chiapas,2018,2,17.17
+Chiapas,2018,3,17.36
+Chiapas,2018,4,17.48
+Chiapas,2018,5,17.65
+Chiapas,2018,6,17.88
+Chiapas,2018,7,18.3
+Chiapas,2018,8,18.87
+Chiapas,2018,9,19.09
+Chiapas,2018,10,19.22
+Chiapas,2018,11,19.2
+Chiapas,2018,12,18.92
+Chiapas,2019,1,18.52
+Chiapas,2019,2,18.92
+Chiapas,2019,3,19.62
+Chiapas,2019,4,19.47
+Chiapas,2019,5,19.27
+Chiapas,2019,6,19.09
+Chiapas,2019,7,19.19
+Chiapas,2019,8,19.21
+Chiapas,2019,9,19.27
+Chiapas,2019,10,19.19
+Chiapas,2019,11,19.19
+Chiapas,2019,12,19.27
+Chiapas,2020,1,19.31
+Chiapas,2020,2,19.15
+Chiapas,2020,3,17.8
+Chiapas,2020,4,15.28
+Chiapas,2020,5,16.18
+Chiapas,2020,6,17.57
+Chiapas,2020,7,18.64
+Chiapas,2020,8,18.61
+Chiapas,2020,9,18.76
+Chiapas,2020,10,18.72
+Chiapas,2020,11,18.29
+Chiapas,2020,12,18.42
+Chiapas,2021,1,19.07
+Chiapas,2021,2,19.74
+Chiapas,2021,3,20.04
+Chiapas,2021,4,20.2
+Chiapas,2021,5,20.29
+Chiapas,2021,6,20.29
+Chiapas,2021,7,20.41
+Chiapas,2021,8,20.56
+Chiapas,2021,9,20.54
+Chiapas,2021,10,20.61
+Chiapas,2021,11,20.55
+Chiapas,2021,12,20.71
+Chiapas,2022,1,20.91
+Chiapas,2022,2,20.96
+Chiapas,2022,3,21.22
+Chiapas,2022,4,21.35
+Chiapas,2022,5,21.48
+Chiapas,2022,6,21.5
+Chiapas,2022,7,21.66
+Chiapas,2022,8,21.71
+Chiapas,2022,9,21.86
+Chiapas,2022,10,21.93
+Chiapas,2022,11,21.91
+Chiapas,2022,12,21.81
+Chiapas,2023,1,21.9
+Chiapas,2023,2,21.85
+Chiapas,2023,3,21.82
+Chiapas,2023,4,21.94
+Chiapas,2023,5,21.97
+Chiapas,2023,6,22.01
+Chiapas,2023,7,22.02
+Chiapas,2023,8,22.15
+Chiapas,2023,9,22.24
+Chiapas,2023,10,22.35
+Chiapas,2023,11,22.38
+Chiapas,2023,12,22.2
+Chiapas,2024,1,22.39
+Chiapas,2024,2,22.98
+Chiapas,2024,3,23.2
+Chiapas,2024,4,23.24
+Chiapas,2024,5,23.33
+Chiapas,2024,6,23.82
+Chiapas,2024,7,23.96
+Chiapas,2024,8,23.99
+Chiapas,2024,9,23.9
+Chiapas,2024,10,23.99
+Chiapas,2024,11,24.05
+Chiapas,2024,12,24.1
+Chiapas,2025,1,24.28
+Chiapas,2025,2,24.11
+Chiapas,2025,3,23.93
+Chiapas,2025,4,23.76
+Chihuahua,2017,1,16.04
+Chihuahua,2017,2,14.26
+Chihuahua,2017,3,14.76
+Chihuahua,2017,4,14.74
+Chihuahua,2017,5,14.66
+Chihuahua,2017,6,14.62
+Chihuahua,2017,7,14.49
+Chihuahua,2017,8,14.49
+Chihuahua,2017,9,14.83
+Chihuahua,2017,10,14.98
+Chihuahua,2017,11,15.11
+Chihuahua,2017,12,15.29
+Chihuahua,2018,1,15.8
+Chihuahua,2018,2,16.39
+Chihuahua,2018,3,16.52
+Chihuahua,2018,4,16.48
+Chihuahua,2018,5,16.89
+Chihuahua,2018,6,16.75
+Chihuahua,2018,7,17.14
+Chihuahua,2018,8,17.68
+Chihuahua,2018,9,17.96
+Chihuahua,2018,10,18.15
+Chihuahua,2018,11,17.95
+Chihuahua,2018,12,17.54
+Chihuahua,2019,1,16.83
+Chihuahua,2019,2,17.31
+Chihuahua,2019,3,17.84
+Chihuahua,2019,4,17.49
+Chihuahua,2019,5,17.2
+Chihuahua,2019,6,17.23
+Chihuahua,2019,7,17.22
+Chihuahua,2019,8,17.02
+Chihuahua,2019,9,17.26
+Chihuahua,2019,10,17.06
+Chihuahua,2019,11,16.98
+Chihuahua,2019,12,17.28
+Chihuahua,2020,1,17.38
+Chihuahua,2020,2,17.16
+Chihuahua,2020,3,15.23
+Chihuahua,2020,4,12.91
+Chihuahua,2020,5,14.26
+Chihuahua,2020,6,15.77
+Chihuahua,2020,7,16.56
+Chihuahua,2020,8,16.36
+Chihuahua,2020,9,16.58
+Chihuahua,2020,10,16.43
+Chihuahua,2020,11,15.77
+Chihuahua,2020,12,16.14
+Chihuahua,2021,1,17.36
+Chihuahua,2021,2,18.17
+Chihuahua,2021,3,18.37
+Chihuahua,2021,4,18.27
+Chihuahua,2021,5,18.39
+Chihuahua,2021,6,18.25
+Chihuahua,2021,7,18.14
+Chihuahua,2021,8,18.22
+Chihuahua,2021,9,18.21
+Chihuahua,2021,10,18.3
+Chihuahua,2021,11,18.15
+Chihuahua,2021,12,18.46
+Chihuahua,2022,1,18.92
+Chihuahua,2022,2,19.22
+Chihuahua,2022,3,19.75
+Chihuahua,2022,4,20.18
+Chihuahua,2022,5,20.31
+Chihuahua,2022,6,20.68
+Chihuahua,2022,7,20.45
+Chihuahua,2022,8,20.5
+Chihuahua,2022,9,19.81
+Chihuahua,2022,10,20.09
+Chihuahua,2022,11,19.69
+Chihuahua,2022,12,19.69
+Chihuahua,2023,1,19.87
+Chihuahua,2023,2,19.76
+Chihuahua,2023,3,19.75
+Chihuahua,2023,4,19.93
+Chihuahua,2023,5,20.57
+Chihuahua,2023,6,20.68
+Chihuahua,2023,7,20.72
+Chihuahua,2023,8,21.32
+Chihuahua,2023,9,21.67
+Chihuahua,2023,10,20.97
+Chihuahua,2023,11,20.84
+Chihuahua,2023,12,20.0
+Chihuahua,2024,1,20.24
+Chihuahua,2024,2,20.99
+Chihuahua,2024,3,21.15
+Chihuahua,2024,4,21.51
+Chihuahua,2024,5,21.07
+Chihuahua,2024,6,21.17
+Chihuahua,2024,7,21.72
+Chihuahua,2024,8,21.81
+Chihuahua,2024,9,21.45
+Chihuahua,2024,10,21.45
+Chihuahua,2024,11,21.44
+Chihuahua,2024,12,21.98
+Chihuahua,2025,1,22.33
+Chihuahua,2025,2,22.41
+Chihuahua,2025,3,22.39
+Chihuahua,2025,4,22.42
+Ciudad de MÃ©xico,2017,1,16.32
+Ciudad de MÃ©xico,2017,2,16.29
+Ciudad de MÃ©xico,2017,3,16.21
+Ciudad de MÃ©xico,2017,4,16.2
+Ciudad de MÃ©xico,2017,5,16.08
+Ciudad de MÃ©xico,2017,6,15.95
+Ciudad de MÃ©xico,2017,7,15.86
+Ciudad de MÃ©xico,2017,8,15.92
+Ciudad de MÃ©xico,2017,9,16.14
+Ciudad de MÃ©xico,2017,10,16.26
+Ciudad de MÃ©xico,2017,11,16.35
+Ciudad de MÃ©xico,2017,12,16.45
+Ciudad de MÃ©xico,2018,1,17.07
+Ciudad de MÃ©xico,2018,2,17.85
+Ciudad de MÃ©xico,2018,3,18.11
+Ciudad de MÃ©xico,2018,4,18.21
+Ciudad de MÃ©xico,2018,5,18.49
+Ciudad de MÃ©xico,2018,6,18.79
+Ciudad de MÃ©xico,2018,7,19.01
+Ciudad de MÃ©xico,2018,8,19.34
+Ciudad de MÃ©xico,2018,9,19.6
+Ciudad de MÃ©xico,2018,10,19.86
+Ciudad de MÃ©xico,2018,11,19.9
+Ciudad de MÃ©xico,2018,12,19.75
+Ciudad de MÃ©xico,2019,1,19.63
+Ciudad de MÃ©xico,2019,2,19.96
+Ciudad de MÃ©xico,2019,3,20.52
+Ciudad de MÃ©xico,2019,4,20.49
+Ciudad de MÃ©xico,2019,5,20.52
+Ciudad de MÃ©xico,2019,6,20.39
+Ciudad de MÃ©xico,2019,7,20.47
+Ciudad de MÃ©xico,2019,8,20.31
+Ciudad de MÃ©xico,2019,9,20.32
+Ciudad de MÃ©xico,2019,10,20.26
+Ciudad de MÃ©xico,2019,11,20.29
+Ciudad de MÃ©xico,2019,12,20.45
+Ciudad de MÃ©xico,2020,1,20.6
+Ciudad de MÃ©xico,2020,2,20.45
+Ciudad de MÃ©xico,2020,3,18.85
+Ciudad de MÃ©xico,2020,4,15.56
+Ciudad de MÃ©xico,2020,5,16.87
+Ciudad de MÃ©xico,2020,6,18.25
+Ciudad de MÃ©xico,2020,7,19.26
+Ciudad de MÃ©xico,2020,8,19.25
+Ciudad de MÃ©xico,2020,9,19.07
+Ciudad de MÃ©xico,2020,10,18.93
+Ciudad de MÃ©xico,2020,11,18.15
+Ciudad de MÃ©xico,2020,12,18.35
+Ciudad de MÃ©xico,2021,1,19.54
+Ciudad de MÃ©xico,2021,2,20.51
+Ciudad de MÃ©xico,2021,3,20.93
+Ciudad de MÃ©xico,2021,4,20.88
+Ciudad de MÃ©xico,2021,5,20.93
+Ciudad de MÃ©xico,2021,6,20.95
+Ciudad de MÃ©xico,2021,7,20.83
+Ciudad de MÃ©xico,2021,8,20.82
+Ciudad de MÃ©xico,2021,9,20.71
+Ciudad de MÃ©xico,2021,10,20.57
+Ciudad de MÃ©xico,2021,11,20.65
+Ciudad de MÃ©xico,2021,12,21.08
+Ciudad de MÃ©xico,2022,1,21.4
+Ciudad de MÃ©xico,2022,2,21.54
+Ciudad de MÃ©xico,2022,3,22.1
+Ciudad de MÃ©xico,2022,4,22.18
+Ciudad de MÃ©xico,2022,5,22.4
+Ciudad de MÃ©xico,2022,6,22.66
+Ciudad de MÃ©xico,2022,7,22.67
+Ciudad de MÃ©xico,2022,8,22.65
+Ciudad de MÃ©xico,2022,9,22.31
+Ciudad de MÃ©xico,2022,10,22.49
+Ciudad de MÃ©xico,2022,11,22.33
+Ciudad de MÃ©xico,2022,12,22.14
+Ciudad de MÃ©xico,2023,1,22.3
+Ciudad de MÃ©xico,2023,2,22.36
+Ciudad de MÃ©xico,2023,3,22.55
+Ciudad de MÃ©xico,2023,4,22.74
+Ciudad de MÃ©xico,2023,5,22.55
+Ciudad de MÃ©xico,2023,6,22.55
+Ciudad de MÃ©xico,2023,7,22.56
+Ciudad de MÃ©xico,2023,8,22.6
+Ciudad de MÃ©xico,2023,9,22.84
+Ciudad de MÃ©xico,2023,10,22.84
+Ciudad de MÃ©xico,2023,11,22.71
+Ciudad de MÃ©xico,2023,12,22.61
+Ciudad de MÃ©xico,2024,1,22.65
+Ciudad de MÃ©xico,2024,2,23.12
+Ciudad de MÃ©xico,2024,3,23.22
+Ciudad de MÃ©xico,2024,4,23.52
+Ciudad de MÃ©xico,2024,5,23.84
+Ciudad de MÃ©xico,2024,6,23.89
+Ciudad de MÃ©xico,2024,7,24.1
+Ciudad de MÃ©xico,2024,8,24.19
+Ciudad de MÃ©xico,2024,9,23.95
+Ciudad de MÃ©xico,2024,10,23.97
+Ciudad de MÃ©xico,2024,11,23.9
+Ciudad de MÃ©xico,2024,12,24.0
+Ciudad de MÃ©xico,2025,1,24.38
+Ciudad de MÃ©xico,2025,2,24.26
+Ciudad de MÃ©xico,2025,3,23.86
+Ciudad de MÃ©xico,2025,4,23.83
+Coahuila de Zaragoza,2017,1,15.8
+Coahuila de Zaragoza,2017,2,15.85
+Coahuila de Zaragoza,2017,3,15.71
+Coahuila de Zaragoza,2017,4,15.62
+Coahuila de Zaragoza,2017,5,15.47
+Coahuila de Zaragoza,2017,6,15.41
+Coahuila de Zaragoza,2017,7,15.36
+Coahuila de Zaragoza,2017,8,15.45
+Coahuila de Zaragoza,2017,9,15.67
+Coahuila de Zaragoza,2017,10,15.84
+Coahuila de Zaragoza,2017,11,15.97
+Coahuila de Zaragoza,2017,12,16.16
+Coahuila de Zaragoza,2018,1,16.69
+Coahuila de Zaragoza,2018,2,17.38
+Coahuila de Zaragoza,2018,3,17.61
+Coahuila de Zaragoza,2018,4,17.68
+Coahuila de Zaragoza,2018,5,17.74
+Coahuila de Zaragoza,2018,6,18.08
+Coahuila de Zaragoza,2018,7,18.43
+Coahuila de Zaragoza,2018,8,18.96
+Coahuila de Zaragoza,2018,9,19.26
+Coahuila de Zaragoza,2018,10,19.48
+Coahuila de Zaragoza,2018,11,19.44
+Coahuila de Zaragoza,2018,12,19.17
+Coahuila de Zaragoza,2019,1,18.9
+Coahuila de Zaragoza,2019,2,19.19
+Coahuila de Zaragoza,2019,3,19.68
+Coahuila de Zaragoza,2019,4,19.37
+Coahuila de Zaragoza,2019,5,19.17
+Coahuila de Zaragoza,2019,6,19.18
+Coahuila de Zaragoza,2019,7,19.3
+Coahuila de Zaragoza,2019,8,19.09
+Coahuila de Zaragoza,2019,9,19.32
+Coahuila de Zaragoza,2019,10,19.35
+Coahuila de Zaragoza,2019,11,19.51
+Coahuila de Zaragoza,2019,12,19.48
+Coahuila de Zaragoza,2020,1,19.53
+Coahuila de Zaragoza,2020,2,19.41
+Coahuila de Zaragoza,2020,3,17.67
+Coahuila de Zaragoza,2020,4,15.16
+Coahuila de Zaragoza,2020,5,15.89
+Coahuila de Zaragoza,2020,6,16.95
+Coahuila de Zaragoza,2020,7,17.91
+Coahuila de Zaragoza,2020,8,18.17
+Coahuila de Zaragoza,2020,9,18.17
+Coahuila de Zaragoza,2020,10,18.15
+Coahuila de Zaragoza,2020,11,17.5
+Coahuila de Zaragoza,2020,12,17.58
+Coahuila de Zaragoza,2021,1,18.31
+Coahuila de Zaragoza,2021,2,19.14
+Coahuila de Zaragoza,2021,3,19.84
+Coahuila de Zaragoza,2021,4,20.02
+Coahuila de Zaragoza,2021,5,20.11
+Coahuila de Zaragoza,2021,6,20.18
+Coahuila de Zaragoza,2021,7,20.21
+Coahuila de Zaragoza,2021,8,20.19
+Coahuila de Zaragoza,2021,9,20.12
+Coahuila de Zaragoza,2021,10,20.14
+Coahuila de Zaragoza,2021,11,19.96
+Coahuila de Zaragoza,2021,12,20.17
+Coahuila de Zaragoza,2022,1,20.45
+Coahuila de Zaragoza,2022,2,20.52
+Coahuila de Zaragoza,2022,3,21.22
+Coahuila de Zaragoza,2022,4,21.57
+Coahuila de Zaragoza,2022,5,21.95
+Coahuila de Zaragoza,2022,6,22.11
+Coahuila de Zaragoza,2022,7,22.05
+Coahuila de Zaragoza,2022,8,22.01
+Coahuila de Zaragoza,2022,9,21.55
+Coahuila de Zaragoza,2022,10,21.74
+Coahuila de Zaragoza,2022,11,21.64
+Coahuila de Zaragoza,2022,12,21.1
+Coahuila de Zaragoza,2023,1,21.1
+Coahuila de Zaragoza,2023,2,21.11
+Coahuila de Zaragoza,2023,3,21.39
+Coahuila de Zaragoza,2023,4,21.65
+Coahuila de Zaragoza,2023,5,21.21
+Coahuila de Zaragoza,2023,6,21.17
+Coahuila de Zaragoza,2023,7,21.53
+Coahuila de Zaragoza,2023,8,22.13
+Coahuila de Zaragoza,2023,9,22.12
+Coahuila de Zaragoza,2023,10,21.8
+Coahuila de Zaragoza,2023,11,21.95
+Coahuila de Zaragoza,2023,12,22.1
+Coahuila de Zaragoza,2024,1,22.09
+Coahuila de Zaragoza,2024,2,22.66
+Coahuila de Zaragoza,2024,3,22.68
+Coahuila de Zaragoza,2024,4,22.91
+Coahuila de Zaragoza,2024,5,23.22
+Coahuila de Zaragoza,2024,6,23.28
+Coahuila de Zaragoza,2024,7,23.69
+Coahuila de Zaragoza,2024,8,23.91
+Coahuila de Zaragoza,2024,9,23.75
+Coahuila de Zaragoza,2024,10,23.64
+Coahuila de Zaragoza,2024,11,23.79
+Coahuila de Zaragoza,2024,12,24.03
+Coahuila de Zaragoza,2025,1,24.44
+Coahuila de Zaragoza,2025,2,24.22
+Coahuila de Zaragoza,2025,3,23.67
+Coahuila de Zaragoza,2025,4,23.61
+Colima,2017,1,16.06
+Colima,2017,2,16.02
+Colima,2017,3,15.95
+Colima,2017,4,15.99
+Colima,2017,5,15.89
+Colima,2017,6,15.79
+Colima,2017,7,15.71
+Colima,2017,8,15.78
+Colima,2017,9,16.01
+Colima,2017,10,16.13
+Colima,2017,11,16.21
+Colima,2017,12,16.34
+Colima,2018,1,16.83
+Colima,2018,2,17.36
+Colima,2018,3,17.57
+Colima,2018,4,17.66
+Colima,2018,5,17.81
+Colima,2018,6,18.03
+Colima,2018,7,18.39
+Colima,2018,8,18.92
+Colima,2018,9,19.18
+Colima,2018,10,19.35
+Colima,2018,11,19.38
+Colima,2018,12,19.16
+Colima,2019,1,18.98
+Colima,2019,2,19.53
+Colima,2019,3,19.97
+Colima,2019,4,19.77
+Colima,2019,5,19.72
+Colima,2019,6,19.51
+Colima,2019,7,19.59
+Colima,2019,8,19.54
+Colima,2019,9,19.59
+Colima,2019,10,19.56
+Colima,2019,11,19.54
+Colima,2019,12,19.64
+Colima,2020,1,19.72
+Colima,2020,2,19.67
+Colima,2020,3,17.62
+Colima,2020,4,15.02
+Colima,2020,5,16.53
+Colima,2020,6,17.92
+Colima,2020,7,18.64
+Colima,2020,8,18.74
+Colima,2020,9,18.77
+Colima,2020,10,18.47
+Colima,2020,11,17.65
+Colima,2020,12,17.77
+Colima,2021,1,18.89
+Colima,2021,2,19.72
+Colima,2021,3,19.92
+Colima,2021,4,20.01
+Colima,2021,5,20.09
+Colima,2021,6,20.14
+Colima,2021,7,20.21
+Colima,2021,8,20.29
+Colima,2021,9,20.21
+Colima,2021,10,20.13
+Colima,2021,11,20.07
+Colima,2021,12,20.35
+Colima,2022,1,20.71
+Colima,2022,2,20.91
+Colima,2022,3,21.22
+Colima,2022,4,21.38
+Colima,2022,5,21.49
+Colima,2022,6,21.54
+Colima,2022,7,21.72
+Colima,2022,8,21.91
+Colima,2022,9,21.93
+Colima,2022,10,22.07
+Colima,2022,11,22.0
+Colima,2022,12,21.81
+Colima,2023,1,22.08
+Colima,2023,2,22.17
+Colima,2023,3,22.25
+Colima,2023,4,22.24
+Colima,2023,5,22.14
+Colima,2023,6,22.26
+Colima,2023,7,22.42
+Colima,2023,8,22.54
+Colima,2023,9,22.57
+Colima,2023,10,22.54
+Colima,2023,11,22.62
+Colima,2023,12,22.47
+Colima,2024,1,22.71
+Colima,2024,2,23.41
+Colima,2024,3,23.75
+Colima,2024,4,24.04
+Colima,2024,5,24.12
+Colima,2024,6,24.15
+Colima,2024,7,24.42
+Colima,2024,8,24.61
+Colima,2024,9,24.55
+Colima,2024,10,24.5
+Colima,2024,11,24.57
+Colima,2024,12,24.52
+Colima,2025,1,24.79
+Colima,2025,2,24.65
+Colima,2025,3,23.98
+Colima,2025,4,23.9
+Durango,2017,1,16.25
+Durango,2017,2,16.21
+Durango,2017,3,16.15
+Durango,2017,4,16.17
+Durango,2017,5,16.07
+Durango,2017,6,15.98
+Durango,2017,7,15.89
+Durango,2017,8,15.97
+Durango,2017,9,16.2
+Durango,2017,10,16.34
+Durango,2017,11,16.48
+Durango,2017,12,16.66
+Durango,2018,1,17.24
+Durango,2018,2,17.85
+Durango,2018,3,18.02
+Durango,2018,4,18.11
+Durango,2018,5,18.28
+Durango,2018,6,18.49
+Durango,2018,7,18.81
+Durango,2018,8,19.29
+Durango,2018,9,19.58
+Durango,2018,10,19.78
+Durango,2018,11,19.73
+Durango,2018,12,19.44
+Durango,2019,1,19.25
+Durango,2019,2,19.6
+Durango,2019,3,20.1
+Durango,2019,4,19.87
+Durango,2019,5,19.76
+Durango,2019,6,19.68
+Durango,2019,7,19.78
+Durango,2019,8,19.75
+Durango,2019,9,19.91
+Durango,2019,10,19.86
+Durango,2019,11,19.9
+Durango,2019,12,20.04
+Durango,2020,1,20.2
+Durango,2020,2,20.06
+Durango,2020,3,18.57
+Durango,2020,4,15.93
+Durango,2020,5,16.85
+Durango,2020,6,18.22
+Durango,2020,7,19.08
+Durango,2020,8,19.08
+Durango,2020,9,19.12
+Durango,2020,10,18.83
+Durango,2020,11,18.21
+Durango,2020,12,18.38
+Durango,2021,1,19.42
+Durango,2021,2,20.25
+Durango,2021,3,20.65
+Durango,2021,4,20.77
+Durango,2021,5,20.75
+Durango,2021,6,20.8
+Durango,2021,7,20.76
+Durango,2021,8,20.74
+Durango,2021,9,20.57
+Durango,2021,10,20.47
+Durango,2021,11,20.37
+Durango,2021,12,20.56
+Durango,2022,1,20.85
+Durango,2022,2,21.06
+Durango,2022,3,21.52
+Durango,2022,4,21.9
+Durango,2022,5,22.13
+Durango,2022,6,22.29
+Durango,2022,7,22.35
+Durango,2022,8,22.39
+Durango,2022,9,22.21
+Durango,2022,10,22.34
+Durango,2022,11,22.09
+Durango,2022,12,21.65
+Durango,2023,1,22.01
+Durango,2023,2,22.07
+Durango,2023,3,22.29
+Durango,2023,4,22.45
+Durango,2023,5,22.45
+Durango,2023,6,22.4
+Durango,2023,7,22.56
+Durango,2023,8,22.92
+Durango,2023,9,23.01
+Durango,2023,10,23.05
+Durango,2023,11,22.89
+Durango,2023,12,22.61
+Durango,2024,1,22.66
+Durango,2024,2,23.23
+Durango,2024,3,23.19
+Durango,2024,4,23.47
+Durango,2024,5,23.64
+Durango,2024,6,23.71
+Durango,2024,7,24.17
+Durango,2024,8,24.41
+Durango,2024,9,24.38
+Durango,2024,10,24.47
+Durango,2024,11,24.89
+Durango,2024,12,25.06
+Durango,2025,1,25.34
+Durango,2025,2,25.0
+Durango,2025,3,24.02
+Durango,2025,4,23.95
+Guanajuato,2017,1,16.1
+Guanajuato,2017,2,16.06
+Guanajuato,2017,3,16.0
+Guanajuato,2017,4,16.03
+Guanajuato,2017,5,15.93
+Guanajuato,2017,6,15.83
+Guanajuato,2017,7,15.75
+Guanajuato,2017,8,15.82
+Guanajuato,2017,9,16.05
+Guanajuato,2017,10,16.17
+Guanajuato,2017,11,16.26
+Guanajuato,2017,12,16.39
+Guanajuato,2018,1,17.03
+Guanajuato,2018,2,17.73
+Guanajuato,2018,3,17.98
+Guanajuato,2018,4,18.07
+Guanajuato,2018,5,18.21
+Guanajuato,2018,6,18.42
+Guanajuato,2018,7,18.83
+Guanajuato,2018,8,19.43
+Guanajuato,2018,9,19.7
+Guanajuato,2018,10,19.93
+Guanajuato,2018,11,19.96
+Guanajuato,2018,12,19.68
+Guanajuato,2019,1,19.72
+Guanajuato,2019,2,20.18
+Guanajuato,2019,3,20.54
+Guanajuato,2019,4,20.26
+Guanajuato,2019,5,20.12
+Guanajuato,2019,6,20.0
+Guanajuato,2019,7,20.11
+Guanajuato,2019,8,20.05
+Guanajuato,2019,9,20.13
+Guanajuato,2019,10,20.12
+Guanajuato,2019,11,20.16
+Guanajuato,2019,12,20.21
+Guanajuato,2020,1,20.28
+Guanajuato,2020,2,20.19
+Guanajuato,2020,3,18.38
+Guanajuato,2020,4,15.43
+Guanajuato,2020,5,16.49
+Guanajuato,2020,6,17.92
+Guanajuato,2020,7,19.0
+Guanajuato,2020,8,19.03
+Guanajuato,2020,9,18.87
+Guanajuato,2020,10,18.6
+Guanajuato,2020,11,17.92
+Guanajuato,2020,12,18.11
+Guanajuato,2021,1,19.18
+Guanajuato,2021,2,20.07
+Guanajuato,2021,3,20.37
+Guanajuato,2021,4,20.39
+Guanajuato,2021,5,20.41
+Guanajuato,2021,6,20.47
+Guanajuato,2021,7,20.42
+Guanajuato,2021,8,20.28
+Guanajuato,2021,9,20.16
+Guanajuato,2021,10,20.06
+Guanajuato,2021,11,19.99
+Guanajuato,2021,12,20.2
+Guanajuato,2022,1,20.59
+Guanajuato,2022,2,20.78
+Guanajuato,2022,3,21.23
+Guanajuato,2022,4,21.44
+Guanajuato,2022,5,21.67
+Guanajuato,2022,6,21.85
+Guanajuato,2022,7,21.94
+Guanajuato,2022,8,21.98
+Guanajuato,2022,9,21.91
+Guanajuato,2022,10,22.03
+Guanajuato,2022,11,22.0
+Guanajuato,2022,12,21.69
+Guanajuato,2023,1,22.0
+Guanajuato,2023,2,22.04
+Guanajuato,2023,3,22.04
+Guanajuato,2023,4,22.11
+Guanajuato,2023,5,21.92
+Guanajuato,2023,6,21.88
+Guanajuato,2023,7,21.99
+Guanajuato,2023,8,22.23
+Guanajuato,2023,9,22.21
+Guanajuato,2023,10,22.23
+Guanajuato,2023,11,22.23
+Guanajuato,2023,12,22.33
+Guanajuato,2024,1,22.55
+Guanajuato,2024,2,23.06
+Guanajuato,2024,3,23.21
+Guanajuato,2024,4,23.38
+Guanajuato,2024,5,23.47
+Guanajuato,2024,6,23.59
+Guanajuato,2024,7,24.03
+Guanajuato,2024,8,24.32
+Guanajuato,2024,9,24.27
+Guanajuato,2024,10,24.26
+Guanajuato,2024,11,24.39
+Guanajuato,2024,12,24.42
+Guanajuato,2025,1,24.7
+Guanajuato,2025,2,24.69
+Guanajuato,2025,3,24.05
+Guanajuato,2025,4,23.86
+Guerrero,2017,1,16.03
+Guerrero,2017,2,16.02
+Guerrero,2017,3,15.98
+Guerrero,2017,4,15.99
+Guerrero,2017,5,15.9
+Guerrero,2017,6,15.79
+Guerrero,2017,7,15.71
+Guerrero,2017,8,15.78
+Guerrero,2017,9,16.01
+Guerrero,2017,10,16.14
+Guerrero,2017,11,16.22
+Guerrero,2017,12,16.35
+Guerrero,2018,1,16.92
+Guerrero,2018,2,17.53
+Guerrero,2018,3,17.76
+Guerrero,2018,4,17.86
+Guerrero,2018,5,18.04
+Guerrero,2018,6,18.3
+Guerrero,2018,7,18.73
+Guerrero,2018,8,19.25
+Guerrero,2018,9,19.47
+Guerrero,2018,10,19.66
+Guerrero,2018,11,19.56
+Guerrero,2018,12,19.23
+Guerrero,2019,1,19.05
+Guerrero,2019,2,19.62
+Guerrero,2019,3,20.08
+Guerrero,2019,4,19.88
+Guerrero,2019,5,19.83
+Guerrero,2019,6,19.64
+Guerrero,2019,7,19.77
+Guerrero,2019,8,19.7
+Guerrero,2019,9,19.9
+Guerrero,2019,10,19.81
+Guerrero,2019,11,19.88
+Guerrero,2019,12,20.03
+Guerrero,2020,1,20.15
+Guerrero,2020,2,20.01
+Guerrero,2020,3,18.29
+Guerrero,2020,4,15.74
+Guerrero,2020,5,17.09
+Guerrero,2020,6,18.49
+Guerrero,2020,7,19.43
+Guerrero,2020,8,19.52
+Guerrero,2020,9,19.45
+Guerrero,2020,10,19.36
+Guerrero,2020,11,18.88
+Guerrero,2020,12,19.1
+Guerrero,2021,1,20.04
+Guerrero,2021,2,20.76
+Guerrero,2021,3,20.98
+Guerrero,2021,4,21.16
+Guerrero,2021,5,21.35
+Guerrero,2021,6,21.47
+Guerrero,2021,7,21.52
+Guerrero,2021,8,21.6
+Guerrero,2021,9,21.67
+Guerrero,2021,10,21.7
+Guerrero,2021,11,21.61
+Guerrero,2021,12,21.79
+Guerrero,2022,1,22.04
+Guerrero,2022,2,22.19
+Guerrero,2022,3,22.43
+Guerrero,2022,4,22.41
+Guerrero,2022,5,22.59
+Guerrero,2022,6,22.71
+Guerrero,2022,7,22.86
+Guerrero,2022,8,22.87
+Guerrero,2022,9,22.9
+Guerrero,2022,10,23.12
+Guerrero,2022,11,23.01
+Guerrero,2022,12,22.92
+Guerrero,2023,1,23.18
+Guerrero,2023,2,23.3
+Guerrero,2023,3,23.39
+Guerrero,2023,4,23.36
+Guerrero,2023,5,23.45
+Guerrero,2023,6,23.39
+Guerrero,2023,7,23.36
+Guerrero,2023,8,23.6
+Guerrero,2023,9,23.52
+Guerrero,2023,10,23.57
+Guerrero,2023,11,23.6
+Guerrero,2023,12,23.54
+Guerrero,2024,1,23.82
+Guerrero,2024,2,24.32
+Guerrero,2024,3,24.34
+Guerrero,2024,4,24.57
+Guerrero,2024,5,24.57
+Guerrero,2024,6,24.68
+Guerrero,2024,7,24.89
+Guerrero,2024,8,25.0
+Guerrero,2024,9,24.76
+Guerrero,2024,10,24.93
+Guerrero,2024,11,24.97
+Guerrero,2024,12,24.94
+Guerrero,2025,1,25.22
+Guerrero,2025,2,25.16
+Guerrero,2025,3,24.07
+Guerrero,2025,4,23.92
+Hidalgo,2017,1,15.85
+Hidalgo,2017,2,15.89
+Hidalgo,2017,3,15.78
+Hidalgo,2017,4,15.81
+Hidalgo,2017,5,15.72
+Hidalgo,2017,6,15.61
+Hidalgo,2017,7,15.52
+Hidalgo,2017,8,15.59
+Hidalgo,2017,9,15.82
+Hidalgo,2017,10,15.94
+Hidalgo,2017,11,16.03
+Hidalgo,2017,12,16.1
+Hidalgo,2018,1,16.62
+Hidalgo,2018,2,17.22
+Hidalgo,2018,3,17.44
+Hidalgo,2018,4,17.51
+Hidalgo,2018,5,17.68
+Hidalgo,2018,6,17.9
+Hidalgo,2018,7,18.3
+Hidalgo,2018,8,18.85
+Hidalgo,2018,9,19.06
+Hidalgo,2018,10,19.23
+Hidalgo,2018,11,19.16
+Hidalgo,2018,12,18.82
+Hidalgo,2019,1,18.67
+Hidalgo,2019,2,19.17
+Hidalgo,2019,3,19.54
+Hidalgo,2019,4,19.37
+Hidalgo,2019,5,19.29
+Hidalgo,2019,6,19.12
+Hidalgo,2019,7,19.26
+Hidalgo,2019,8,19.04
+Hidalgo,2019,9,19.09
+Hidalgo,2019,10,18.96
+Hidalgo,2019,11,18.97
+Hidalgo,2019,12,19.09
+Hidalgo,2020,1,19.15
+Hidalgo,2020,2,19.0
+Hidalgo,2020,3,17.07
+Hidalgo,2020,4,14.31
+Hidalgo,2020,5,15.76
+Hidalgo,2020,6,17.28
+Hidalgo,2020,7,18.4
+Hidalgo,2020,8,18.34
+Hidalgo,2020,9,18.22
+Hidalgo,2020,10,17.99
+Hidalgo,2020,11,17.23
+Hidalgo,2020,12,17.58
+Hidalgo,2021,1,18.76
+Hidalgo,2021,2,19.66
+Hidalgo,2021,3,19.91
+Hidalgo,2021,4,19.83
+Hidalgo,2021,5,19.83
+Hidalgo,2021,6,19.86
+Hidalgo,2021,7,19.82
+Hidalgo,2021,8,19.88
+Hidalgo,2021,9,19.86
+Hidalgo,2021,10,19.78
+Hidalgo,2021,11,19.69
+Hidalgo,2021,12,19.94
+Hidalgo,2022,1,20.38
+Hidalgo,2022,2,20.53
+Hidalgo,2022,3,20.89
+Hidalgo,2022,4,21.05
+Hidalgo,2022,5,21.2
+Hidalgo,2022,6,21.23
+Hidalgo,2022,7,21.33
+Hidalgo,2022,8,21.38
+Hidalgo,2022,9,21.25
+Hidalgo,2022,10,21.51
+Hidalgo,2022,11,21.22
+Hidalgo,2022,12,20.96
+Hidalgo,2023,1,21.37
+Hidalgo,2023,2,21.37
+Hidalgo,2023,3,21.43
+Hidalgo,2023,4,21.54
+Hidalgo,2023,5,21.51
+Hidalgo,2023,6,21.55
+Hidalgo,2023,7,21.7
+Hidalgo,2023,8,21.84
+Hidalgo,2023,9,21.81
+Hidalgo,2023,10,21.76
+Hidalgo,2023,11,21.78
+Hidalgo,2023,12,21.73
+Hidalgo,2024,1,22.11
+Hidalgo,2024,2,22.97
+Hidalgo,2024,3,23.06
+Hidalgo,2024,4,23.19
+Hidalgo,2024,5,23.25
+Hidalgo,2024,6,23.41
+Hidalgo,2024,7,23.64
+Hidalgo,2024,8,23.83
+Hidalgo,2024,9,23.64
+Hidalgo,2024,10,23.73
+Hidalgo,2024,11,23.79
+Hidalgo,2024,12,23.78
+Hidalgo,2025,1,24.17
+Hidalgo,2025,2,24.03
+Hidalgo,2025,3,23.76
+Hidalgo,2025,4,23.68
+Jalisco,2017,1,16.46
+Jalisco,2017,2,16.44
+Jalisco,2017,3,16.36
+Jalisco,2017,4,16.36
+Jalisco,2017,5,16.24
+Jalisco,2017,6,16.12
+Jalisco,2017,7,16.03
+Jalisco,2017,8,16.09
+Jalisco,2017,9,16.32
+Jalisco,2017,10,16.44
+Jalisco,2017,11,16.52
+Jalisco,2017,12,16.67
+Jalisco,2018,1,17.29
+Jalisco,2018,2,18.09
+Jalisco,2018,3,18.33
+Jalisco,2018,4,18.42
+Jalisco,2018,5,18.65
+Jalisco,2018,6,18.94
+Jalisco,2018,7,19.22
+Jalisco,2018,8,19.63
+Jalisco,2018,9,19.89
+Jalisco,2018,10,20.14
+Jalisco,2018,11,20.19
+Jalisco,2018,12,19.95
+Jalisco,2019,1,19.9
+Jalisco,2019,2,20.31
+Jalisco,2019,3,20.78
+Jalisco,2019,4,20.66
+Jalisco,2019,5,20.66
+Jalisco,2019,6,20.52
+Jalisco,2019,7,20.53
+Jalisco,2019,8,20.38
+Jalisco,2019,9,20.37
+Jalisco,2019,10,20.35
+Jalisco,2019,11,20.34
+Jalisco,2019,12,20.47
+Jalisco,2020,1,20.58
+Jalisco,2020,2,20.43
+Jalisco,2020,3,18.87
+Jalisco,2020,4,16.02
+Jalisco,2020,5,17.06
+Jalisco,2020,6,18.37
+Jalisco,2020,7,19.39
+Jalisco,2020,8,19.35
+Jalisco,2020,9,19.21
+Jalisco,2020,10,19.04
+Jalisco,2020,11,18.29
+Jalisco,2020,12,18.44
+Jalisco,2021,1,19.42
+Jalisco,2021,2,20.21
+Jalisco,2021,3,20.69
+Jalisco,2021,4,20.73
+Jalisco,2021,5,20.78
+Jalisco,2021,6,20.78
+Jalisco,2021,7,20.7
+Jalisco,2021,8,20.61
+Jalisco,2021,9,20.54
+Jalisco,2021,10,20.45
+Jalisco,2021,11,20.44
+Jalisco,2021,12,20.78
+Jalisco,2022,1,21.17
+Jalisco,2022,2,21.35
+Jalisco,2022,3,21.92
+Jalisco,2022,4,22.13
+Jalisco,2022,5,22.34
+Jalisco,2022,6,22.59
+Jalisco,2022,7,22.54
+Jalisco,2022,8,22.52
+Jalisco,2022,9,22.17
+Jalisco,2022,10,22.41
+Jalisco,2022,11,22.36
+Jalisco,2022,12,22.08
+Jalisco,2023,1,22.32
+Jalisco,2023,2,22.39
+Jalisco,2023,3,22.51
+Jalisco,2023,4,22.63
+Jalisco,2023,5,22.39
+Jalisco,2023,6,22.45
+Jalisco,2023,7,22.65
+Jalisco,2023,8,22.89
+Jalisco,2023,9,23.02
+Jalisco,2023,10,22.97
+Jalisco,2023,11,22.84
+Jalisco,2023,12,22.69
+Jalisco,2024,1,23.0
+Jalisco,2024,2,23.76
+Jalisco,2024,3,23.95
+Jalisco,2024,4,24.16
+Jalisco,2024,5,24.23
+Jalisco,2024,6,24.43
+Jalisco,2024,7,24.77
+Jalisco,2024,8,24.8
+Jalisco,2024,9,24.65
+Jalisco,2024,10,24.49
+Jalisco,2024,11,24.25
+Jalisco,2024,12,24.17
+Jalisco,2025,1,24.69
+Jalisco,2025,2,24.54
+Jalisco,2025,3,24.04
+Jalisco,2025,4,23.93
+MichoacÃ¡n de Ocampo,2017,1,16.22
+MichoacÃ¡n de Ocampo,2017,2,16.22
+MichoacÃ¡n de Ocampo,2017,3,16.14
+MichoacÃ¡n de Ocampo,2017,4,16.16
+MichoacÃ¡n de Ocampo,2017,5,16.07
+MichoacÃ¡n de Ocampo,2017,6,15.97
+MichoacÃ¡n de Ocampo,2017,7,15.89
+MichoacÃ¡n de Ocampo,2017,8,15.97
+MichoacÃ¡n de Ocampo,2017,9,16.19
+MichoacÃ¡n de Ocampo,2017,10,16.32
+MichoacÃ¡n de Ocampo,2017,11,16.4
+MichoacÃ¡n de Ocampo,2017,12,16.56
+MichoacÃ¡n de Ocampo,2018,1,17.19
+MichoacÃ¡n de Ocampo,2018,2,17.9
+MichoacÃ¡n de Ocampo,2018,3,18.11
+MichoacÃ¡n de Ocampo,2018,4,18.2
+MichoacÃ¡n de Ocampo,2018,5,18.36
+MichoacÃ¡n de Ocampo,2018,6,18.6
+MichoacÃ¡n de Ocampo,2018,7,19.03
+MichoacÃ¡n de Ocampo,2018,8,19.56
+MichoacÃ¡n de Ocampo,2018,9,19.76
+MichoacÃ¡n de Ocampo,2018,10,19.96
+MichoacÃ¡n de Ocampo,2018,11,19.91
+MichoacÃ¡n de Ocampo,2018,12,19.61
+MichoacÃ¡n de Ocampo,2019,1,19.54
+MichoacÃ¡n de Ocampo,2019,2,20.32
+MichoacÃ¡n de Ocampo,2019,3,20.68
+MichoacÃ¡n de Ocampo,2019,4,20.29
+MichoacÃ¡n de Ocampo,2019,5,20.06
+MichoacÃ¡n de Ocampo,2019,6,19.85
+MichoacÃ¡n de Ocampo,2019,7,19.93
+MichoacÃ¡n de Ocampo,2019,8,19.89
+MichoacÃ¡n de Ocampo,2019,9,19.96
+MichoacÃ¡n de Ocampo,2019,10,19.87
+MichoacÃ¡n de Ocampo,2019,11,19.95
+MichoacÃ¡n de Ocampo,2019,12,20.06
+MichoacÃ¡n de Ocampo,2020,1,20.14
+MichoacÃ¡n de Ocampo,2020,2,20.02
+MichoacÃ¡n de Ocampo,2020,3,17.92
+MichoacÃ¡n de Ocampo,2020,4,15.39
+MichoacÃ¡n de Ocampo,2020,5,16.97
+MichoacÃ¡n de Ocampo,2020,6,18.4
+MichoacÃ¡n de Ocampo,2020,7,19.21
+MichoacÃ¡n de Ocampo,2020,8,19.12
+MichoacÃ¡n de Ocampo,2020,9,19.01
+MichoacÃ¡n de Ocampo,2020,10,18.87
+MichoacÃ¡n de Ocampo,2020,11,18.15
+MichoacÃ¡n de Ocampo,2020,12,18.46
+MichoacÃ¡n de Ocampo,2021,1,19.63
+MichoacÃ¡n de Ocampo,2021,2,20.4
+MichoacÃ¡n de Ocampo,2021,3,20.58
+MichoacÃ¡n de Ocampo,2021,4,20.64
+MichoacÃ¡n de Ocampo,2021,5,20.73
+MichoacÃ¡n de Ocampo,2021,6,20.84
+MichoacÃ¡n de Ocampo,2021,7,20.81
+MichoacÃ¡n de Ocampo,2021,8,20.8
+MichoacÃ¡n de Ocampo,2021,9,20.76
+MichoacÃ¡n de Ocampo,2021,10,20.8
+MichoacÃ¡n de Ocampo,2021,11,20.65
+MichoacÃ¡n de Ocampo,2021,12,20.93
+MichoacÃ¡n de Ocampo,2022,1,21.22
+MichoacÃ¡n de Ocampo,2022,2,21.45
+MichoacÃ¡n de Ocampo,2022,3,21.73
+MichoacÃ¡n de Ocampo,2022,4,21.81
+MichoacÃ¡n de Ocampo,2022,5,21.78
+MichoacÃ¡n de Ocampo,2022,6,21.97
+MichoacÃ¡n de Ocampo,2022,7,22.14
+MichoacÃ¡n de Ocampo,2022,8,22.21
+MichoacÃ¡n de Ocampo,2022,9,22.13
+MichoacÃ¡n de Ocampo,2022,10,22.32
+MichoacÃ¡n de Ocampo,2022,11,22.14
+MichoacÃ¡n de Ocampo,2022,12,22.03
+MichoacÃ¡n de Ocampo,2023,1,22.41
+MichoacÃ¡n de Ocampo,2023,2,22.46
+MichoacÃ¡n de Ocampo,2023,3,22.48
+MichoacÃ¡n de Ocampo,2023,4,22.5
+MichoacÃ¡n de Ocampo,2023,5,22.53
+MichoacÃ¡n de Ocampo,2023,6,22.58
+MichoacÃ¡n de Ocampo,2023,7,22.75
+MichoacÃ¡n de Ocampo,2023,8,22.83
+MichoacÃ¡n de Ocampo,2023,9,22.78
+MichoacÃ¡n de Ocampo,2023,10,22.82
+MichoacÃ¡n de Ocampo,2023,11,22.83
+MichoacÃ¡n de Ocampo,2023,12,22.74
+MichoacÃ¡n de Ocampo,2024,1,23.05
+MichoacÃ¡n de Ocampo,2024,2,23.94
+MichoacÃ¡n de Ocampo,2024,3,24.05
+MichoacÃ¡n de Ocampo,2024,4,24.15
+MichoacÃ¡n de Ocampo,2024,5,24.16
+MichoacÃ¡n de Ocampo,2024,6,24.33
+MichoacÃ¡n de Ocampo,2024,7,24.59
+MichoacÃ¡n de Ocampo,2024,8,24.79
+MichoacÃ¡n de Ocampo,2024,9,24.64
+MichoacÃ¡n de Ocampo,2024,10,24.73
+MichoacÃ¡n de Ocampo,2024,11,24.82
+MichoacÃ¡n de Ocampo,2024,12,24.86
+MichoacÃ¡n de Ocampo,2025,1,25.12
+MichoacÃ¡n de Ocampo,2025,2,25.02
+MichoacÃ¡n de Ocampo,2025,3,24.07
+MichoacÃ¡n de Ocampo,2025,4,23.93
+Morelos,2017,1,15.91
+Morelos,2017,2,15.88
+Morelos,2017,3,15.81
+Morelos,2017,4,15.84
+Morelos,2017,5,15.75
+Morelos,2017,6,15.65
+Morelos,2017,7,15.56
+Morelos,2017,8,15.63
+Morelos,2017,9,15.85
+Morelos,2017,10,15.98
+Morelos,2017,11,16.07
+Morelos,2017,12,16.18
+Morelos,2018,1,16.78
+Morelos,2018,2,17.43
+Morelos,2018,3,17.66
+Morelos,2018,4,17.75
+Morelos,2018,5,17.92
+Morelos,2018,6,18.16
+Morelos,2018,7,18.56
+Morelos,2018,8,19.12
+Morelos,2018,9,19.34
+Morelos,2018,10,19.53
+Morelos,2018,11,19.51
+Morelos,2018,12,19.29
+Morelos,2019,1,19.08
+Morelos,2019,2,19.44
+Morelos,2019,3,19.82
+Morelos,2019,4,19.71
+Morelos,2019,5,19.65
+Morelos,2019,6,19.51
+Morelos,2019,7,19.55
+Morelos,2019,8,19.44
+Morelos,2019,9,19.44
+Morelos,2019,10,19.34
+Morelos,2019,11,19.32
+Morelos,2019,12,19.47
+Morelos,2020,1,19.59
+Morelos,2020,2,19.54
+Morelos,2020,3,17.96
+Morelos,2020,4,14.86
+Morelos,2020,5,16.18
+Morelos,2020,6,17.65
+Morelos,2020,7,18.61
+Morelos,2020,8,18.58
+Morelos,2020,9,18.48
+Morelos,2020,10,18.28
+Morelos,2020,11,17.57
+Morelos,2020,12,17.82
+Morelos,2021,1,18.96
+Morelos,2021,2,19.81
+Morelos,2021,3,20.01
+Morelos,2021,4,19.97
+Morelos,2021,5,19.97
+Morelos,2021,6,20.03
+Morelos,2021,7,20.2
+Morelos,2021,8,20.26
+Morelos,2021,9,20.15
+Morelos,2021,10,20.08
+Morelos,2021,11,19.97
+Morelos,2021,12,20.19
+Morelos,2022,1,20.56
+Morelos,2022,2,20.76
+Morelos,2022,3,21.09
+Morelos,2022,4,21.18
+Morelos,2022,5,21.23
+Morelos,2022,6,21.28
+Morelos,2022,7,21.42
+Morelos,2022,8,21.47
+Morelos,2022,9,21.36
+Morelos,2022,10,21.58
+Morelos,2022,11,21.4
+Morelos,2022,12,21.19
+Morelos,2023,1,21.49
+Morelos,2023,2,21.54
+Morelos,2023,3,21.63
+Morelos,2023,4,21.8
+Morelos,2023,5,21.81
+Morelos,2023,6,21.91
+Morelos,2023,7,21.98
+Morelos,2023,8,22.14
+Morelos,2023,9,22.1
+Morelos,2023,10,22.07
+Morelos,2023,11,22.11
+Morelos,2023,12,22.02
+Morelos,2024,1,22.33
+Morelos,2024,2,23.21
+Morelos,2024,3,23.34
+Morelos,2024,4,23.4
+Morelos,2024,5,23.48
+Morelos,2024,6,23.56
+Morelos,2024,7,23.84
+Morelos,2024,8,23.98
+Morelos,2024,9,23.82
+Morelos,2024,10,23.89
+Morelos,2024,11,23.95
+Morelos,2024,12,23.99
+Morelos,2025,1,24.32
+Morelos,2025,2,24.23
+Morelos,2025,3,23.85
+Morelos,2025,4,23.83
+MÃ©xico,2017,1,16.16
+MÃ©xico,2017,2,16.13
+MÃ©xico,2017,3,16.05
+MÃ©xico,2017,4,16.06
+MÃ©xico,2017,5,15.94
+MÃ©xico,2017,6,15.83
+MÃ©xico,2017,7,15.74
+MÃ©xico,2017,8,15.8
+MÃ©xico,2017,9,16.03
+MÃ©xico,2017,10,16.15
+MÃ©xico,2017,11,16.23
+MÃ©xico,2017,12,16.35
+MÃ©xico,2018,1,16.91
+MÃ©xico,2018,2,17.62
+MÃ©xico,2018,3,17.86
+MÃ©xico,2018,4,17.96
+MÃ©xico,2018,5,18.18
+MÃ©xico,2018,6,18.45
+MÃ©xico,2018,7,18.75
+MÃ©xico,2018,8,19.15
+MÃ©xico,2018,9,19.38
+MÃ©xico,2018,10,19.6
+MÃ©xico,2018,11,19.59
+MÃ©xico,2018,12,19.39
+MÃ©xico,2019,1,19.39
+MÃ©xico,2019,2,19.76
+MÃ©xico,2019,3,20.3
+MÃ©xico,2019,4,20.21
+MÃ©xico,2019,5,20.16
+MÃ©xico,2019,6,19.98
+MÃ©xico,2019,7,20.0
+MÃ©xico,2019,8,19.84
+MÃ©xico,2019,9,19.83
+MÃ©xico,2019,10,19.75
+MÃ©xico,2019,11,19.77
+MÃ©xico,2019,12,19.93
+MÃ©xico,2020,1,20.03
+MÃ©xico,2020,2,19.89
+MÃ©xico,2020,3,18.14
+MÃ©xico,2020,4,14.95
+MÃ©xico,2020,5,16.35
+MÃ©xico,2020,6,17.76
+MÃ©xico,2020,7,18.78
+MÃ©xico,2020,8,18.74
+MÃ©xico,2020,9,18.58
+MÃ©xico,2020,10,18.37
+MÃ©xico,2020,11,17.58
+MÃ©xico,2020,12,17.83
+MÃ©xico,2021,1,18.97
+MÃ©xico,2021,2,19.92
+MÃ©xico,2021,3,20.26
+MÃ©xico,2021,4,20.21
+MÃ©xico,2021,5,20.28
+MÃ©xico,2021,6,20.32
+MÃ©xico,2021,7,20.22
+MÃ©xico,2021,8,20.22
+MÃ©xico,2021,9,20.15
+MÃ©xico,2021,10,20.01
+MÃ©xico,2021,11,19.97
+MÃ©xico,2021,12,20.3
+MÃ©xico,2022,1,20.65
+MÃ©xico,2022,2,20.81
+MÃ©xico,2022,3,21.31
+MÃ©xico,2022,4,21.47
+MÃ©xico,2022,5,21.7
+MÃ©xico,2022,6,21.91
+MÃ©xico,2022,7,21.87
+MÃ©xico,2022,8,21.88
+MÃ©xico,2022,9,21.59
+MÃ©xico,2022,10,21.81
+MÃ©xico,2022,11,21.75
+MÃ©xico,2022,12,21.51
+MÃ©xico,2023,1,21.72
+MÃ©xico,2023,2,21.74
+MÃ©xico,2023,3,21.89
+MÃ©xico,2023,4,22.11
+MÃ©xico,2023,5,21.93
+MÃ©xico,2023,6,21.94
+MÃ©xico,2023,7,22.0
+MÃ©xico,2023,8,22.11
+MÃ©xico,2023,9,22.3
+MÃ©xico,2023,10,22.23
+MÃ©xico,2023,11,22.09
+MÃ©xico,2023,12,21.93
+MÃ©xico,2024,1,22.08
+MÃ©xico,2024,2,22.78
+MÃ©xico,2024,3,22.92
+MÃ©xico,2024,4,23.14
+MÃ©xico,2024,5,23.39
+MÃ©xico,2024,6,23.44
+MÃ©xico,2024,7,23.7
+MÃ©xico,2024,8,23.85
+MÃ©xico,2024,9,23.65
+MÃ©xico,2024,10,23.61
+MÃ©xico,2024,11,23.56
+MÃ©xico,2024,12,23.64
+MÃ©xico,2025,1,24.11
+MÃ©xico,2025,2,24.01
+MÃ©xico,2025,3,23.76
+MÃ©xico,2025,4,23.71
+Nacional,2017,1,16.0
+Nacional,2017,2,15.88
+Nacional,2017,3,15.78
+Nacional,2017,4,15.78
+Nacional,2017,5,15.68
+Nacional,2017,6,15.57
+Nacional,2017,7,15.48
+Nacional,2017,8,15.56
+Nacional,2017,9,15.79
+Nacional,2017,10,15.92
+Nacional,2017,11,16.02
+Nacional,2017,12,16.16
+Nacional,2018,1,16.71
+Nacional,2018,2,17.35
+Nacional,2018,3,17.58
+Nacional,2018,4,17.68
+Nacional,2018,5,17.89
+Nacional,2018,6,18.1
+Nacional,2018,7,18.45
+Nacional,2018,8,18.97
+Nacional,2018,9,19.23
+Nacional,2018,10,19.43
+Nacional,2018,11,19.41
+Nacional,2018,12,19.1
+Nacional,2019,1,18.82
+Nacional,2019,2,19.25
+Nacional,2019,3,19.74
+Nacional,2019,4,19.52
+Nacional,2019,5,19.44
+Nacional,2019,6,19.33
+Nacional,2019,7,19.4
+Nacional,2019,8,19.28
+Nacional,2019,9,19.37
+Nacional,2019,10,19.33
+Nacional,2019,11,19.32
+Nacional,2019,12,19.44
+Nacional,2020,1,19.52
+Nacional,2020,2,19.41
+Nacional,2020,3,17.8
+Nacional,2020,4,15.1
+Nacional,2020,5,16.27
+Nacional,2020,6,17.65
+Nacional,2020,7,18.6
+Nacional,2020,8,18.6
+Nacional,2020,9,18.53
+Nacional,2020,10,18.39
+Nacional,2020,11,17.72
+Nacional,2020,12,17.92
+Nacional,2021,1,18.93
+Nacional,2021,2,19.75
+Nacional,2021,3,20.1
+Nacional,2021,4,20.19
+Nacional,2021,5,20.22
+Nacional,2021,6,20.27
+Nacional,2021,7,20.28
+Nacional,2021,8,20.3
+Nacional,2021,9,20.19
+Nacional,2021,10,20.13
+Nacional,2021,11,20.07
+Nacional,2021,12,20.28
+Nacional,2022,1,20.65
+Nacional,2022,2,20.85
+Nacional,2022,3,21.28
+Nacional,2022,4,21.47
+Nacional,2022,5,21.67
+Nacional,2022,6,21.86
+Nacional,2022,7,21.83
+Nacional,2022,8,21.9
+Nacional,2022,9,21.7
+Nacional,2022,10,21.9
+Nacional,2022,11,21.79
+Nacional,2022,12,21.5
+Nacional,2023,1,21.76
+Nacional,2023,2,21.79
+Nacional,2023,3,21.88
+Nacional,2023,4,21.96
+Nacional,2023,5,21.94
+Nacional,2023,6,21.99
+Nacional,2023,7,22.09
+Nacional,2023,8,22.31
+Nacional,2023,9,22.35
+Nacional,2023,10,22.29
+Nacional,2023,11,22.23
+Nacional,2023,12,22.09
+Nacional,2024,1,22.32
+Nacional,2024,2,23.01
+Nacional,2024,3,23.19
+Nacional,2024,4,23.43
+Nacional,2024,5,23.49
+Nacional,2024,6,23.56
+Nacional,2024,7,23.91
+Nacional,2024,8,24.05
+Nacional,2024,9,23.92
+Nacional,2024,10,23.85
+Nacional,2024,11,23.9
+Nacional,2024,12,23.98
+Nacional,2025,1,24.28
+Nacional,2025,2,24.21
+Nacional,2025,3,23.78
+Nacional,2025,4,23.72
+Nayarit,2017,1,16.31
+Nayarit,2017,2,16.29
+Nayarit,2017,3,16.23
+Nayarit,2017,4,16.25
+Nayarit,2017,5,16.16
+Nayarit,2017,6,16.07
+Nayarit,2017,7,15.99
+Nayarit,2017,8,16.06
+Nayarit,2017,9,16.28
+Nayarit,2017,10,16.4
+Nayarit,2017,11,16.49
+Nayarit,2017,12,16.71
+Nayarit,2018,1,17.3
+Nayarit,2018,2,17.95
+Nayarit,2018,3,18.19
+Nayarit,2018,4,18.3
+Nayarit,2018,5,18.47
+Nayarit,2018,6,18.69
+Nayarit,2018,7,19.11
+Nayarit,2018,8,19.65
+Nayarit,2018,9,19.89
+Nayarit,2018,10,20.09
+Nayarit,2018,11,20.13
+Nayarit,2018,12,19.98
+Nayarit,2019,1,19.94
+Nayarit,2019,2,20.33
+Nayarit,2019,3,20.79
+Nayarit,2019,4,20.69
+Nayarit,2019,5,20.59
+Nayarit,2019,6,20.36
+Nayarit,2019,7,20.27
+Nayarit,2019,8,20.16
+Nayarit,2019,9,20.25
+Nayarit,2019,10,20.14
+Nayarit,2019,11,20.16
+Nayarit,2019,12,20.29
+Nayarit,2020,1,20.25
+Nayarit,2020,2,20.26
+Nayarit,2020,3,19.2
+Nayarit,2020,4,16.48
+Nayarit,2020,5,17.34
+Nayarit,2020,6,18.63
+Nayarit,2020,7,19.38
+Nayarit,2020,8,19.3
+Nayarit,2020,9,19.24
+Nayarit,2020,10,19.0
+Nayarit,2020,11,18.31
+Nayarit,2020,12,18.51
+Nayarit,2021,1,19.52
+Nayarit,2021,2,20.25
+Nayarit,2021,3,20.53
+Nayarit,2021,4,20.68
+Nayarit,2021,5,20.79
+Nayarit,2021,6,20.79
+Nayarit,2021,7,20.86
+Nayarit,2021,8,20.86
+Nayarit,2021,9,20.78
+Nayarit,2021,10,20.69
+Nayarit,2021,11,20.57
+Nayarit,2021,12,20.79
+Nayarit,2022,1,21.3
+Nayarit,2022,2,21.47
+Nayarit,2022,3,21.79
+Nayarit,2022,4,22.02
+Nayarit,2022,5,22.05
+Nayarit,2022,6,22.17
+Nayarit,2022,7,22.38
+Nayarit,2022,8,22.55
+Nayarit,2022,9,22.38
+Nayarit,2022,10,22.41
+Nayarit,2022,11,22.24
+Nayarit,2022,12,22.06
+Nayarit,2023,1,22.5
+Nayarit,2023,2,22.65
+Nayarit,2023,3,22.61
+Nayarit,2023,4,22.97
+Nayarit,2023,5,22.42
+Nayarit,2023,6,22.32
+Nayarit,2023,7,22.84
+Nayarit,2023,8,23.01
+Nayarit,2023,9,22.99
+Nayarit,2023,10,23.1
+Nayarit,2023,11,23.1
+Nayarit,2023,12,22.53
+Nayarit,2024,1,23.24
+Nayarit,2024,2,23.87
+Nayarit,2024,3,24.41
+Nayarit,2024,4,24.62
+Nayarit,2024,5,24.5
+Nayarit,2024,6,24.61
+Nayarit,2024,7,25.03
+Nayarit,2024,8,25.03
+Nayarit,2024,9,24.67
+Nayarit,2024,10,24.83
+Nayarit,2024,11,25.11
+Nayarit,2024,12,25.17
+Nayarit,2025,1,25.55
+Nayarit,2025,2,25.36
+Nayarit,2025,3,24.21
+Nayarit,2025,4,24.02
+Nuevo LeÃ³n,2017,1,16.28
+Nuevo LeÃ³n,2017,2,16.26
+Nuevo LeÃ³n,2017,3,16.18
+Nuevo LeÃ³n,2017,4,16.18
+Nuevo LeÃ³n,2017,5,16.06
+Nuevo LeÃ³n,2017,6,15.93
+Nuevo LeÃ³n,2017,7,15.88
+Nuevo LeÃ³n,2017,8,16.0
+Nuevo LeÃ³n,2017,9,16.25
+Nuevo LeÃ³n,2017,10,16.42
+Nuevo LeÃ³n,2017,11,16.56
+Nuevo LeÃ³n,2017,12,16.72
+Nuevo LeÃ³n,2018,1,17.16
+Nuevo LeÃ³n,2018,2,17.72
+Nuevo LeÃ³n,2018,3,17.93
+Nuevo LeÃ³n,2018,4,18.0
+Nuevo LeÃ³n,2018,5,18.23
+Nuevo LeÃ³n,2018,6,18.56
+Nuevo LeÃ³n,2018,7,18.87
+Nuevo LeÃ³n,2018,8,19.39
+Nuevo LeÃ³n,2018,9,19.66
+Nuevo LeÃ³n,2018,10,19.85
+Nuevo LeÃ³n,2018,11,19.78
+Nuevo LeÃ³n,2018,12,19.34
+Nuevo LeÃ³n,2019,1,19.07
+Nuevo LeÃ³n,2019,2,19.48
+Nuevo LeÃ³n,2019,3,20.23
+Nuevo LeÃ³n,2019,4,19.81
+Nuevo LeÃ³n,2019,5,19.92
+Nuevo LeÃ³n,2019,6,19.65
+Nuevo LeÃ³n,2019,7,19.77
+Nuevo LeÃ³n,2019,8,19.73
+Nuevo LeÃ³n,2019,9,19.86
+Nuevo LeÃ³n,2019,10,19.82
+Nuevo LeÃ³n,2019,11,19.81
+Nuevo LeÃ³n,2019,12,19.88
+Nuevo LeÃ³n,2020,1,19.98
+Nuevo LeÃ³n,2020,2,19.92
+Nuevo LeÃ³n,2020,3,18.3
+Nuevo LeÃ³n,2020,4,15.91
+Nuevo LeÃ³n,2020,5,16.61
+Nuevo LeÃ³n,2020,6,17.69
+Nuevo LeÃ³n,2020,7,18.8
+Nuevo LeÃ³n,2020,8,19.02
+Nuevo LeÃ³n,2020,9,19.07
+Nuevo LeÃ³n,2020,10,19.02
+Nuevo LeÃ³n,2020,11,18.53
+Nuevo LeÃ³n,2020,12,18.71
+Nuevo LeÃ³n,2021,1,19.51
+Nuevo LeÃ³n,2021,2,20.21
+Nuevo LeÃ³n,2021,3,20.83
+Nuevo LeÃ³n,2021,4,21.07
+Nuevo LeÃ³n,2021,5,21.2
+Nuevo LeÃ³n,2021,6,21.3
+Nuevo LeÃ³n,2021,7,21.38
+Nuevo LeÃ³n,2021,8,21.27
+Nuevo LeÃ³n,2021,9,21.06
+Nuevo LeÃ³n,2021,10,21.09
+Nuevo LeÃ³n,2021,11,21.08
+Nuevo LeÃ³n,2021,12,21.15
+Nuevo LeÃ³n,2022,1,21.57
+Nuevo LeÃ³n,2022,2,21.96
+Nuevo LeÃ³n,2022,3,22.39
+Nuevo LeÃ³n,2022,4,22.65
+Nuevo LeÃ³n,2022,5,22.85
+Nuevo LeÃ³n,2022,6,23.09
+Nuevo LeÃ³n,2022,7,22.86
+Nuevo LeÃ³n,2022,8,22.96
+Nuevo LeÃ³n,2022,9,22.74
+Nuevo LeÃ³n,2022,10,22.98
+Nuevo LeÃ³n,2022,11,23.11
+Nuevo LeÃ³n,2022,12,22.73
+Nuevo LeÃ³n,2023,1,22.93
+Nuevo LeÃ³n,2023,2,23.17
+Nuevo LeÃ³n,2023,3,23.33
+Nuevo LeÃ³n,2023,4,23.6
+Nuevo LeÃ³n,2023,5,23.46
+Nuevo LeÃ³n,2023,6,23.19
+Nuevo LeÃ³n,2023,7,23.33
+Nuevo LeÃ³n,2023,8,23.47
+Nuevo LeÃ³n,2023,9,23.44
+Nuevo LeÃ³n,2023,10,23.36
+Nuevo LeÃ³n,2023,11,23.04
+Nuevo LeÃ³n,2023,12,23.23
+Nuevo LeÃ³n,2024,1,23.23
+Nuevo LeÃ³n,2024,2,23.99
+Nuevo LeÃ³n,2024,3,24.08
+Nuevo LeÃ³n,2024,4,24.36
+Nuevo LeÃ³n,2024,5,24.54
+Nuevo LeÃ³n,2024,6,24.73
+Nuevo LeÃ³n,2024,7,24.98
+Nuevo LeÃ³n,2024,8,25.16
+Nuevo LeÃ³n,2024,9,24.88
+Nuevo LeÃ³n,2024,10,24.59
+Nuevo LeÃ³n,2024,11,24.53
+Nuevo LeÃ³n,2024,12,24.59
+Nuevo LeÃ³n,2025,1,24.74
+Nuevo LeÃ³n,2025,2,24.66
+Nuevo LeÃ³n,2025,3,24.17
+Nuevo LeÃ³n,2025,4,23.91
+Oaxaca,2017,1,15.86
+Oaxaca,2017,2,15.86
+Oaxaca,2017,3,15.77
+Oaxaca,2017,4,15.79
+Oaxaca,2017,5,15.7
+Oaxaca,2017,6,15.6
+Oaxaca,2017,7,15.51
+Oaxaca,2017,8,15.59
+Oaxaca,2017,9,15.81
+Oaxaca,2017,10,15.93
+Oaxaca,2017,11,16.01
+Oaxaca,2017,12,16.18
+Oaxaca,2018,1,16.78
+Oaxaca,2018,2,17.38
+Oaxaca,2018,3,17.64
+Oaxaca,2018,4,17.75
+Oaxaca,2018,5,17.91
+Oaxaca,2018,6,18.15
+Oaxaca,2018,7,18.54
+Oaxaca,2018,8,19.09
+Oaxaca,2018,9,19.32
+Oaxaca,2018,10,19.52
+Oaxaca,2018,11,19.51
+Oaxaca,2018,12,19.26
+Oaxaca,2019,1,19.06
+Oaxaca,2019,2,19.55
+Oaxaca,2019,3,20.1
+Oaxaca,2019,4,20.12
+Oaxaca,2019,5,20.11
+Oaxaca,2019,6,19.98
+Oaxaca,2019,7,20.1
+Oaxaca,2019,8,20.06
+Oaxaca,2019,9,20.14
+Oaxaca,2019,10,20.1
+Oaxaca,2019,11,20.08
+Oaxaca,2019,12,20.15
+Oaxaca,2020,1,20.14
+Oaxaca,2020,2,20.13
+Oaxaca,2020,3,18.53
+Oaxaca,2020,4,16.17
+Oaxaca,2020,5,17.11
+Oaxaca,2020,6,18.41
+Oaxaca,2020,7,19.33
+Oaxaca,2020,8,19.37
+Oaxaca,2020,9,19.34
+Oaxaca,2020,10,19.3
+Oaxaca,2020,11,18.86
+Oaxaca,2020,12,19.14
+Oaxaca,2021,1,20.08
+Oaxaca,2021,2,20.8
+Oaxaca,2021,3,21.01
+Oaxaca,2021,4,21.05
+Oaxaca,2021,5,21.09
+Oaxaca,2021,6,21.17
+Oaxaca,2021,7,21.31
+Oaxaca,2021,8,21.39
+Oaxaca,2021,9,21.35
+Oaxaca,2021,10,21.28
+Oaxaca,2021,11,21.15
+Oaxaca,2021,12,21.25
+Oaxaca,2022,1,21.64
+Oaxaca,2022,2,21.71
+Oaxaca,2022,3,22.03
+Oaxaca,2022,4,22.13
+Oaxaca,2022,5,22.21
+Oaxaca,2022,6,22.25
+Oaxaca,2022,7,22.39
+Oaxaca,2022,8,22.5
+Oaxaca,2022,9,22.5
+Oaxaca,2022,10,22.67
+Oaxaca,2022,11,22.62
+Oaxaca,2022,12,22.5
+Oaxaca,2023,1,22.78
+Oaxaca,2023,2,22.89
+Oaxaca,2023,3,22.82
+Oaxaca,2023,4,22.9
+Oaxaca,2023,5,22.94
+Oaxaca,2023,6,22.93
+Oaxaca,2023,7,22.99
+Oaxaca,2023,8,23.14
+Oaxaca,2023,9,23.22
+Oaxaca,2023,10,23.26
+Oaxaca,2023,11,23.35
+Oaxaca,2023,12,23.37
+Oaxaca,2024,1,23.42
+Oaxaca,2024,2,23.86
+Oaxaca,2024,3,24.1
+Oaxaca,2024,4,24.27
+Oaxaca,2024,5,24.33
+Oaxaca,2024,6,24.42
+Oaxaca,2024,7,24.6
+Oaxaca,2024,8,24.8
+Oaxaca,2024,9,24.78
+Oaxaca,2024,10,24.79
+Oaxaca,2024,11,24.85
+Oaxaca,2024,12,24.95
+Oaxaca,2025,1,25.13
+Oaxaca,2025,2,25.07
+Oaxaca,2025,3,24.17
+Oaxaca,2025,4,24.06
+Puebla,2017,1,15.86
+Puebla,2017,2,15.86
+Puebla,2017,3,15.77
+Puebla,2017,4,15.79
+Puebla,2017,5,15.69
+Puebla,2017,6,15.58
+Puebla,2017,7,15.5
+Puebla,2017,8,15.57
+Puebla,2017,9,15.79
+Puebla,2017,10,15.91
+Puebla,2017,11,15.99
+Puebla,2017,12,16.11
+Puebla,2018,1,16.66
+Puebla,2018,2,17.35
+Puebla,2018,3,17.58
+Puebla,2018,4,17.67
+Puebla,2018,5,17.82
+Puebla,2018,6,18.03
+Puebla,2018,7,18.42
+Puebla,2018,8,18.96
+Puebla,2018,9,19.21
+Puebla,2018,10,19.41
+Puebla,2018,11,19.41
+Puebla,2018,12,19.16
+Puebla,2019,1,18.85
+Puebla,2019,2,19.07
+Puebla,2019,3,19.59
+Puebla,2019,4,19.37
+Puebla,2019,5,19.26
+Puebla,2019,6,19.16
+Puebla,2019,7,19.25
+Puebla,2019,8,19.18
+Puebla,2019,9,19.28
+Puebla,2019,10,19.27
+Puebla,2019,11,19.28
+Puebla,2019,12,19.36
+Puebla,2020,1,19.43
+Puebla,2020,2,19.34
+Puebla,2020,3,17.64
+Puebla,2020,4,14.6
+Puebla,2020,5,15.86
+Puebla,2020,6,17.33
+Puebla,2020,7,18.34
+Puebla,2020,8,18.25
+Puebla,2020,9,18.11
+Puebla,2020,10,17.98
+Puebla,2020,11,17.31
+Puebla,2020,12,17.58
+Puebla,2021,1,18.69
+Puebla,2021,2,19.57
+Puebla,2021,3,19.86
+Puebla,2021,4,19.89
+Puebla,2021,5,19.91
+Puebla,2021,6,19.92
+Puebla,2021,7,20.02
+Puebla,2021,8,20.01
+Puebla,2021,9,19.86
+Puebla,2021,10,19.71
+Puebla,2021,11,19.63
+Puebla,2021,12,19.86
+Puebla,2022,1,20.3
+Puebla,2022,2,20.49
+Puebla,2022,3,20.91
+Puebla,2022,4,21.09
+Puebla,2022,5,21.2
+Puebla,2022,6,21.22
+Puebla,2022,7,21.4
+Puebla,2022,8,21.43
+Puebla,2022,9,21.26
+Puebla,2022,10,21.54
+Puebla,2022,11,21.36
+Puebla,2022,12,21.06
+Puebla,2023,1,21.4
+Puebla,2023,2,21.41
+Puebla,2023,3,21.46
+Puebla,2023,4,21.56
+Puebla,2023,5,21.55
+Puebla,2023,6,21.61
+Puebla,2023,7,21.74
+Puebla,2023,8,21.99
+Puebla,2023,9,21.92
+Puebla,2023,10,21.87
+Puebla,2023,11,21.91
+Puebla,2023,12,21.77
+Puebla,2024,1,22.05
+Puebla,2024,2,22.82
+Puebla,2024,3,22.94
+Puebla,2024,4,23.05
+Puebla,2024,5,23.13
+Puebla,2024,6,23.22
+Puebla,2024,7,23.6
+Puebla,2024,8,23.8
+Puebla,2024,9,23.61
+Puebla,2024,10,23.62
+Puebla,2024,11,23.74
+Puebla,2024,12,23.69
+Puebla,2025,1,24.01
+Puebla,2025,2,23.87
+Puebla,2025,3,23.7
+Puebla,2025,4,23.65
+QuerÃ©taro,2017,1,16.04
+QuerÃ©taro,2017,2,16.02
+QuerÃ©taro,2017,3,15.95
+QuerÃ©taro,2017,4,15.98
+QuerÃ©taro,2017,5,15.89
+QuerÃ©taro,2017,6,15.78
+QuerÃ©taro,2017,7,15.7
+QuerÃ©taro,2017,8,15.76
+QuerÃ©taro,2017,9,15.99
+QuerÃ©taro,2017,10,16.11
+QuerÃ©taro,2017,11,16.2
+QuerÃ©taro,2017,12,16.31
+QuerÃ©taro,2018,1,16.88
+QuerÃ©taro,2018,2,17.53
+QuerÃ©taro,2018,3,17.8
+QuerÃ©taro,2018,4,17.91
+QuerÃ©taro,2018,5,18.09
+QuerÃ©taro,2018,6,18.35
+QuerÃ©taro,2018,7,18.72
+QuerÃ©taro,2018,8,19.25
+QuerÃ©taro,2018,9,19.51
+QuerÃ©taro,2018,10,19.69
+QuerÃ©taro,2018,11,19.7
+QuerÃ©taro,2018,12,19.53
+QuerÃ©taro,2019,1,19.61
+QuerÃ©taro,2019,2,19.89
+QuerÃ©taro,2019,3,20.18
+QuerÃ©taro,2019,4,20.06
+QuerÃ©taro,2019,5,19.94
+QuerÃ©taro,2019,6,19.75
+QuerÃ©taro,2019,7,19.79
+QuerÃ©taro,2019,8,19.7
+QuerÃ©taro,2019,9,19.74
+QuerÃ©taro,2019,10,19.69
+QuerÃ©taro,2019,11,19.71
+QuerÃ©taro,2019,12,19.79
+QuerÃ©taro,2020,1,19.83
+QuerÃ©taro,2020,2,19.74
+QuerÃ©taro,2020,3,17.91
+QuerÃ©taro,2020,4,14.79
+QuerÃ©taro,2020,5,16.13
+QuerÃ©taro,2020,6,17.63
+QuerÃ©taro,2020,7,18.69
+QuerÃ©taro,2020,8,18.63
+QuerÃ©taro,2020,9,18.5
+QuerÃ©taro,2020,10,18.25
+QuerÃ©taro,2020,11,17.27
+QuerÃ©taro,2020,12,17.57
+QuerÃ©taro,2021,1,18.73
+QuerÃ©taro,2021,2,19.63
+QuerÃ©taro,2021,3,19.82
+QuerÃ©taro,2021,4,19.84
+QuerÃ©taro,2021,5,19.91
+QuerÃ©taro,2021,6,19.92
+QuerÃ©taro,2021,7,19.98
+QuerÃ©taro,2021,8,19.9
+QuerÃ©taro,2021,9,19.83
+QuerÃ©taro,2021,10,19.64
+QuerÃ©taro,2021,11,19.5
+QuerÃ©taro,2021,12,19.8
+QuerÃ©taro,2022,1,20.25
+QuerÃ©taro,2022,2,20.45
+QuerÃ©taro,2022,3,20.94
+QuerÃ©taro,2022,4,21.18
+QuerÃ©taro,2022,5,21.37
+QuerÃ©taro,2022,6,21.44
+QuerÃ©taro,2022,7,21.5
+QuerÃ©taro,2022,8,21.49
+QuerÃ©taro,2022,9,21.24
+QuerÃ©taro,2022,10,21.43
+QuerÃ©taro,2022,11,21.15
+QuerÃ©taro,2022,12,20.87
+QuerÃ©taro,2023,1,21.18
+QuerÃ©taro,2023,2,21.06
+QuerÃ©taro,2023,3,21.14
+QuerÃ©taro,2023,4,21.2
+QuerÃ©taro,2023,5,21.25
+QuerÃ©taro,2023,6,21.33
+QuerÃ©taro,2023,7,21.52
+QuerÃ©taro,2023,8,21.8
+QuerÃ©taro,2023,9,21.68
+QuerÃ©taro,2023,10,21.67
+QuerÃ©taro,2023,11,21.73
+QuerÃ©taro,2023,12,21.7
+QuerÃ©taro,2024,1,21.98
+QuerÃ©taro,2024,2,22.61
+QuerÃ©taro,2024,3,22.75
+QuerÃ©taro,2024,4,22.89
+QuerÃ©taro,2024,5,22.98
+QuerÃ©taro,2024,6,23.2
+QuerÃ©taro,2024,7,23.58
+QuerÃ©taro,2024,8,23.79
+QuerÃ©taro,2024,9,23.57
+QuerÃ©taro,2024,10,23.6
+QuerÃ©taro,2024,11,23.72
+QuerÃ©taro,2024,12,23.62
+QuerÃ©taro,2025,1,23.98
+QuerÃ©taro,2025,2,23.92
+QuerÃ©taro,2025,3,23.66
+QuerÃ©taro,2025,4,23.61
+Quintana Roo,2017,1,15.89
+Quintana Roo,2017,2,15.87
+Quintana Roo,2017,3,15.79
+Quintana Roo,2017,4,15.81
+Quintana Roo,2017,5,15.72
+Quintana Roo,2017,6,15.62
+Quintana Roo,2017,7,15.55
+Quintana Roo,2017,8,15.62
+Quintana Roo,2017,9,15.84
+Quintana Roo,2017,10,15.97
+Quintana Roo,2017,11,16.04
+Quintana Roo,2017,12,16.2
+Quintana Roo,2018,1,16.75
+Quintana Roo,2018,2,17.25
+Quintana Roo,2018,3,17.42
+Quintana Roo,2018,4,17.47
+Quintana Roo,2018,5,17.63
+Quintana Roo,2018,6,17.87
+Quintana Roo,2018,7,18.27
+Quintana Roo,2018,8,18.99
+Quintana Roo,2018,9,19.33
+Quintana Roo,2018,10,19.5
+Quintana Roo,2018,11,19.45
+Quintana Roo,2018,12,19.13
+Quintana Roo,2019,1,18.83
+Quintana Roo,2019,2,19.56
+Quintana Roo,2019,3,20.08
+Quintana Roo,2019,4,19.66
+Quintana Roo,2019,5,19.57
+Quintana Roo,2019,6,19.39
+Quintana Roo,2019,7,19.63
+Quintana Roo,2019,8,19.62
+Quintana Roo,2019,9,19.78
+Quintana Roo,2019,10,19.68
+Quintana Roo,2019,11,19.67
+Quintana Roo,2019,12,19.86
+Quintana Roo,2020,1,19.97
+Quintana Roo,2020,2,19.85
+Quintana Roo,2020,3,18.38
+Quintana Roo,2020,4,16.16
+Quintana Roo,2020,5,16.91
+Quintana Roo,2020,6,18.45
+Quintana Roo,2020,7,19.3
+Quintana Roo,2020,8,19.39
+Quintana Roo,2020,9,19.53
+Quintana Roo,2020,10,19.57
+Quintana Roo,2020,11,19.01
+Quintana Roo,2020,12,19.21
+Quintana Roo,2021,1,20.08
+Quintana Roo,2021,2,20.81
+Quintana Roo,2021,3,21.01
+Quintana Roo,2021,4,21.13
+Quintana Roo,2021,5,21.18
+Quintana Roo,2021,6,21.16
+Quintana Roo,2021,7,21.18
+Quintana Roo,2021,8,21.31
+Quintana Roo,2021,9,21.28
+Quintana Roo,2021,10,21.33
+Quintana Roo,2021,11,21.22
+Quintana Roo,2021,12,21.34
+Quintana Roo,2022,1,21.71
+Quintana Roo,2022,2,22.05
+Quintana Roo,2022,3,22.38
+Quintana Roo,2022,4,22.53
+Quintana Roo,2022,5,22.69
+Quintana Roo,2022,6,22.77
+Quintana Roo,2022,7,22.92
+Quintana Roo,2022,8,23.07
+Quintana Roo,2022,9,22.95
+Quintana Roo,2022,10,23.18
+Quintana Roo,2022,11,23.15
+Quintana Roo,2022,12,22.92
+Quintana Roo,2023,1,23.17
+Quintana Roo,2023,2,23.33
+Quintana Roo,2023,3,23.39
+Quintana Roo,2023,4,23.51
+Quintana Roo,2023,5,23.49
+Quintana Roo,2023,6,23.57
+Quintana Roo,2023,7,23.61
+Quintana Roo,2023,8,23.71
+Quintana Roo,2023,9,23.76
+Quintana Roo,2023,10,23.78
+Quintana Roo,2023,11,23.69
+Quintana Roo,2023,12,23.61
+Quintana Roo,2024,1,23.78
+Quintana Roo,2024,2,24.51
+Quintana Roo,2024,3,24.6
+Quintana Roo,2024,4,25.01
+Quintana Roo,2024,5,25.12
+Quintana Roo,2024,6,25.02
+Quintana Roo,2024,7,25.1
+Quintana Roo,2024,8,25.31
+Quintana Roo,2024,9,25.24
+Quintana Roo,2024,10,25.15
+Quintana Roo,2024,11,25.13
+Quintana Roo,2024,12,25.08
+Quintana Roo,2025,1,25.56
+Quintana Roo,2025,2,25.57
+Quintana Roo,2025,3,24.85
+Quintana Roo,2025,4,24.57
+San Luis PotosÃ­,2017,1,15.85
+San Luis PotosÃ­,2017,2,15.82
+San Luis PotosÃ­,2017,3,15.76
+San Luis PotosÃ­,2017,4,15.78
+San Luis PotosÃ­,2017,5,15.69
+San Luis PotosÃ­,2017,6,15.59
+San Luis PotosÃ­,2017,7,15.5
+San Luis PotosÃ­,2017,8,15.58
+San Luis PotosÃ­,2017,9,15.8
+San Luis PotosÃ­,2017,10,15.93
+San Luis PotosÃ­,2017,11,16.01
+San Luis PotosÃ­,2017,12,16.2
+San Luis PotosÃ­,2018,1,16.85
+San Luis PotosÃ­,2018,2,17.57
+San Luis PotosÃ­,2018,3,17.79
+San Luis PotosÃ­,2018,4,17.86
+San Luis PotosÃ­,2018,5,18.03
+San Luis PotosÃ­,2018,6,18.25
+San Luis PotosÃ­,2018,7,18.56
+San Luis PotosÃ­,2018,8,19.04
+San Luis PotosÃ­,2018,9,19.3
+San Luis PotosÃ­,2018,10,19.52
+San Luis PotosÃ­,2018,11,19.47
+San Luis PotosÃ­,2018,12,19.17
+San Luis PotosÃ­,2019,1,18.92
+San Luis PotosÃ­,2019,2,19.36
+San Luis PotosÃ­,2019,3,19.77
+San Luis PotosÃ­,2019,4,19.52
+San Luis PotosÃ­,2019,5,19.45
+San Luis PotosÃ­,2019,6,19.31
+San Luis PotosÃ­,2019,7,19.31
+San Luis PotosÃ­,2019,8,19.17
+San Luis PotosÃ­,2019,9,19.36
+San Luis PotosÃ­,2019,10,19.33
+San Luis PotosÃ­,2019,11,19.37
+San Luis PotosÃ­,2019,12,19.5
+San Luis PotosÃ­,2020,1,19.61
+San Luis PotosÃ­,2020,2,19.5
+San Luis PotosÃ­,2020,3,17.52
+San Luis PotosÃ­,2020,4,14.57
+San Luis PotosÃ­,2020,5,16.28
+San Luis PotosÃ­,2020,6,17.75
+San Luis PotosÃ­,2020,7,18.52
+San Luis PotosÃ­,2020,8,18.41
+San Luis PotosÃ­,2020,9,18.41
+San Luis PotosÃ­,2020,10,18.34
+San Luis PotosÃ­,2020,11,17.66
+San Luis PotosÃ­,2020,12,18.06
+San Luis PotosÃ­,2021,1,19.14
+San Luis PotosÃ­,2021,2,19.92
+San Luis PotosÃ­,2021,3,20.13
+San Luis PotosÃ­,2021,4,20.26
+San Luis PotosÃ­,2021,5,20.37
+San Luis PotosÃ­,2021,6,20.46
+San Luis PotosÃ­,2021,7,20.49
+San Luis PotosÃ­,2021,8,20.53
+San Luis PotosÃ­,2021,9,20.54
+San Luis PotosÃ­,2021,10,20.56
+San Luis PotosÃ­,2021,11,20.54
+San Luis PotosÃ­,2021,12,20.68
+San Luis PotosÃ­,2022,1,21.07
+San Luis PotosÃ­,2022,2,21.25
+San Luis PotosÃ­,2022,3,21.59
+San Luis PotosÃ­,2022,4,21.76
+San Luis PotosÃ­,2022,5,21.93
+San Luis PotosÃ­,2022,6,22.04
+San Luis PotosÃ­,2022,7,22.09
+San Luis PotosÃ­,2022,8,22.15
+San Luis PotosÃ­,2022,9,22.05
+San Luis PotosÃ­,2022,10,22.27
+San Luis PotosÃ­,2022,11,22.01
+San Luis PotosÃ­,2022,12,21.97
+San Luis PotosÃ­,2023,1,22.2
+San Luis PotosÃ­,2023,2,22.19
+San Luis PotosÃ­,2023,3,22.22
+San Luis PotosÃ­,2023,4,22.15
+San Luis PotosÃ­,2023,5,22.3
+San Luis PotosÃ­,2023,6,22.37
+San Luis PotosÃ­,2023,7,22.36
+San Luis PotosÃ­,2023,8,22.41
+San Luis PotosÃ­,2023,9,22.48
+San Luis PotosÃ­,2023,10,22.46
+San Luis PotosÃ­,2023,11,22.45
+San Luis PotosÃ­,2023,12,22.43
+San Luis PotosÃ­,2024,1,22.65
+San Luis PotosÃ­,2024,2,23.29
+San Luis PotosÃ­,2024,3,23.5
+San Luis PotosÃ­,2024,4,23.68
+San Luis PotosÃ­,2024,5,23.75
+San Luis PotosÃ­,2024,6,23.86
+San Luis PotosÃ­,2024,7,24.09
+San Luis PotosÃ­,2024,8,24.25
+San Luis PotosÃ­,2024,9,24.26
+San Luis PotosÃ­,2024,10,24.34
+San Luis PotosÃ­,2024,11,24.42
+San Luis PotosÃ­,2024,12,24.38
+San Luis PotosÃ­,2025,1,24.72
+San Luis PotosÃ­,2025,2,24.61
+San Luis PotosÃ­,2025,3,24.08
+San Luis PotosÃ­,2025,4,23.98
+Sinaloa,2017,1,16.12
+Sinaloa,2017,2,16.09
+Sinaloa,2017,3,16.02
+Sinaloa,2017,4,16.04
+Sinaloa,2017,5,15.95
+Sinaloa,2017,6,15.85
+Sinaloa,2017,7,15.77
+Sinaloa,2017,8,15.84
+Sinaloa,2017,9,16.07
+Sinaloa,2017,10,16.2
+Sinaloa,2017,11,16.34
+Sinaloa,2017,12,16.53
+Sinaloa,2018,1,17.09
+Sinaloa,2018,2,17.64
+Sinaloa,2018,3,17.89
+Sinaloa,2018,4,18.05
+Sinaloa,2018,5,18.26
+Sinaloa,2018,6,18.51
+Sinaloa,2018,7,18.91
+Sinaloa,2018,8,19.47
+Sinaloa,2018,9,19.72
+Sinaloa,2018,10,19.91
+Sinaloa,2018,11,19.93
+Sinaloa,2018,12,19.81
+Sinaloa,2019,1,19.54
+Sinaloa,2019,2,19.84
+Sinaloa,2019,3,20.21
+Sinaloa,2019,4,20.03
+Sinaloa,2019,5,20.0
+Sinaloa,2019,6,19.84
+Sinaloa,2019,7,19.95
+Sinaloa,2019,8,19.85
+Sinaloa,2019,9,19.86
+Sinaloa,2019,10,19.8
+Sinaloa,2019,11,19.79
+Sinaloa,2019,12,19.88
+Sinaloa,2020,1,19.97
+Sinaloa,2020,2,19.85
+Sinaloa,2020,3,17.88
+Sinaloa,2020,4,15.68
+Sinaloa,2020,5,17.39
+Sinaloa,2020,6,18.62
+Sinaloa,2020,7,19.4
+Sinaloa,2020,8,19.23
+Sinaloa,2020,9,19.22
+Sinaloa,2020,10,19.06
+Sinaloa,2020,11,18.25
+Sinaloa,2020,12,18.25
+Sinaloa,2021,1,19.18
+Sinaloa,2021,2,19.73
+Sinaloa,2021,3,20.38
+Sinaloa,2021,4,20.66
+Sinaloa,2021,5,20.73
+Sinaloa,2021,6,20.67
+Sinaloa,2021,7,20.47
+Sinaloa,2021,8,20.51
+Sinaloa,2021,9,20.56
+Sinaloa,2021,10,20.49
+Sinaloa,2021,11,20.52
+Sinaloa,2021,12,20.56
+Sinaloa,2022,1,20.98
+Sinaloa,2022,2,21.26
+Sinaloa,2022,3,21.85
+Sinaloa,2022,4,22.13
+Sinaloa,2022,5,21.89
+Sinaloa,2022,6,21.79
+Sinaloa,2022,7,22.31
+Sinaloa,2022,8,22.53
+Sinaloa,2022,9,22.54
+Sinaloa,2022,10,22.61
+Sinaloa,2022,11,22.32
+Sinaloa,2022,12,22.08
+Sinaloa,2023,1,22.39
+Sinaloa,2023,2,22.14
+Sinaloa,2023,3,22.34
+Sinaloa,2023,4,22.42
+Sinaloa,2023,5,22.43
+Sinaloa,2023,6,22.28
+Sinaloa,2023,7,22.51
+Sinaloa,2023,8,23.02
+Sinaloa,2023,9,23.09
+Sinaloa,2023,10,22.86
+Sinaloa,2023,11,22.61
+Sinaloa,2023,12,22.37
+Sinaloa,2024,1,22.98
+Sinaloa,2024,2,23.49
+Sinaloa,2024,3,23.74
+Sinaloa,2024,4,24.19
+Sinaloa,2024,5,24.36
+Sinaloa,2024,6,24.38
+Sinaloa,2024,7,24.71
+Sinaloa,2024,8,24.84
+Sinaloa,2024,9,24.96
+Sinaloa,2024,10,24.4
+Sinaloa,2024,11,24.56
+Sinaloa,2024,12,24.94
+Sinaloa,2025,1,25.06
+Sinaloa,2025,2,24.76
+Sinaloa,2025,3,23.94
+Sinaloa,2025,4,23.87
+Sonora,2017,1,16.12
+Sonora,2017,2,16.14
+Sonora,2017,3,15.77
+Sonora,2017,4,15.67
+Sonora,2017,5,15.57
+Sonora,2017,6,15.45
+Sonora,2017,7,15.33
+Sonora,2017,8,15.4
+Sonora,2017,9,15.63
+Sonora,2017,10,15.79
+Sonora,2017,11,15.92
+Sonora,2017,12,16.05
+Sonora,2018,1,16.43
+Sonora,2018,2,16.98
+Sonora,2018,3,17.22
+Sonora,2018,4,17.37
+Sonora,2018,5,17.64
+Sonora,2018,6,17.8
+Sonora,2018,7,18.19
+Sonora,2018,8,18.71
+Sonora,2018,9,18.95
+Sonora,2018,10,19.13
+Sonora,2018,11,19.13
+Sonora,2018,12,18.93
+Sonora,2019,1,18.29
+Sonora,2019,2,18.84
+Sonora,2019,3,19.34
+Sonora,2019,4,19.09
+Sonora,2019,5,19.1
+Sonora,2019,6,18.97
+Sonora,2019,7,18.96
+Sonora,2019,8,18.62
+Sonora,2019,9,18.83
+Sonora,2019,10,19.13
+Sonora,2019,11,18.8
+Sonora,2019,12,18.99
+Sonora,2020,1,18.8
+Sonora,2020,2,18.95
+Sonora,2020,3,17.85
+Sonora,2020,4,15.47
+Sonora,2020,5,16.88
+Sonora,2020,6,18.38
+Sonora,2020,7,19.14
+Sonora,2020,8,18.94
+Sonora,2020,9,18.85
+Sonora,2020,10,18.8
+Sonora,2020,11,17.98
+Sonora,2020,12,17.96
+Sonora,2021,1,18.91
+Sonora,2021,2,19.72
+Sonora,2021,3,20.08
+Sonora,2021,4,20.0
+Sonora,2021,5,20.08
+Sonora,2021,6,20.18
+Sonora,2021,7,20.0
+Sonora,2021,8,20.0
+Sonora,2021,9,19.65
+Sonora,2021,10,19.85
+Sonora,2021,11,19.99
+Sonora,2021,12,19.92
+Sonora,2022,1,20.27
+Sonora,2022,2,20.67
+Sonora,2022,3,21.04
+Sonora,2022,4,21.22
+Sonora,2022,5,21.22
+Sonora,2022,6,21.25
+Sonora,2022,7,21.45
+Sonora,2022,8,21.67
+Sonora,2022,9,21.62
+Sonora,2022,10,21.66
+Sonora,2022,11,21.72
+Sonora,2022,12,21.27
+Sonora,2023,1,21.59
+Sonora,2023,2,21.64
+Sonora,2023,3,21.27
+Sonora,2023,4,21.32
+Sonora,2023,5,21.81
+Sonora,2023,6,22.05
+Sonora,2023,7,22.19
+Sonora,2023,8,22.66
+Sonora,2023,9,22.61
+Sonora,2023,10,22.6
+Sonora,2023,11,22.41
+Sonora,2023,12,21.75
+Sonora,2024,1,21.95
+Sonora,2024,2,23.08
+Sonora,2024,3,23.32
+Sonora,2024,4,23.45
+Sonora,2024,5,23.27
+Sonora,2024,6,23.43
+Sonora,2024,7,24.11
+Sonora,2024,8,24.07
+Sonora,2024,9,23.89
+Sonora,2024,10,23.32
+Sonora,2024,11,23.48
+Sonora,2024,12,23.88
+Sonora,2025,1,23.91
+Sonora,2025,2,24.15
+Sonora,2025,3,23.44
+Sonora,2025,4,23.18
+Tabasco,2017,1,15.57
+Tabasco,2017,2,15.56
+Tabasco,2017,3,15.49
+Tabasco,2017,4,15.52
+Tabasco,2017,5,15.42
+Tabasco,2017,6,15.33
+Tabasco,2017,7,15.25
+Tabasco,2017,8,15.32
+Tabasco,2017,9,15.55
+Tabasco,2017,10,15.67
+Tabasco,2017,11,15.75
+Tabasco,2017,12,15.86
+Tabasco,2018,1,16.42
+Tabasco,2018,2,17.03
+Tabasco,2018,3,17.29
+Tabasco,2018,4,17.42
+Tabasco,2018,5,17.53
+Tabasco,2018,6,17.8
+Tabasco,2018,7,18.15
+Tabasco,2018,8,18.62
+Tabasco,2018,9,18.81
+Tabasco,2018,10,18.97
+Tabasco,2018,11,18.91
+Tabasco,2018,12,18.63
+Tabasco,2019,1,18.15
+Tabasco,2019,2,18.2
+Tabasco,2019,3,18.88
+Tabasco,2019,4,18.73
+Tabasco,2019,5,18.56
+Tabasco,2019,6,18.39
+Tabasco,2019,7,18.45
+Tabasco,2019,8,18.35
+Tabasco,2019,9,18.46
+Tabasco,2019,10,18.39
+Tabasco,2019,11,18.34
+Tabasco,2019,12,18.5
+Tabasco,2020,1,18.62
+Tabasco,2020,2,18.55
+Tabasco,2020,3,17.77
+Tabasco,2020,4,15.08
+Tabasco,2020,5,15.72
+Tabasco,2020,6,17.03
+Tabasco,2020,7,18.06
+Tabasco,2020,8,18.08
+Tabasco,2020,9,18.1
+Tabasco,2020,10,17.88
+Tabasco,2020,11,17.42
+Tabasco,2020,12,17.5
+Tabasco,2021,1,18.62
+Tabasco,2021,2,19.46
+Tabasco,2021,3,19.77
+Tabasco,2021,4,19.87
+Tabasco,2021,5,19.92
+Tabasco,2021,6,19.95
+Tabasco,2021,7,20.01
+Tabasco,2021,8,20.0
+Tabasco,2021,9,20.01
+Tabasco,2021,10,19.89
+Tabasco,2021,11,19.79
+Tabasco,2021,12,19.93
+Tabasco,2022,1,20.21
+Tabasco,2022,2,20.36
+Tabasco,2022,3,20.59
+Tabasco,2022,4,20.74
+Tabasco,2022,5,20.97
+Tabasco,2022,6,21.16
+Tabasco,2022,7,21.29
+Tabasco,2022,8,21.37
+Tabasco,2022,9,21.42
+Tabasco,2022,10,21.72
+Tabasco,2022,11,21.65
+Tabasco,2022,12,21.67
+Tabasco,2023,1,21.74
+Tabasco,2023,2,21.61
+Tabasco,2023,3,21.62
+Tabasco,2023,4,21.72
+Tabasco,2023,5,21.65
+Tabasco,2023,6,21.7
+Tabasco,2023,7,21.81
+Tabasco,2023,8,21.94
+Tabasco,2023,9,21.82
+Tabasco,2023,10,21.9
+Tabasco,2023,11,21.87
+Tabasco,2023,12,21.81
+Tabasco,2024,1,21.98
+Tabasco,2024,2,22.63
+Tabasco,2024,3,22.72
+Tabasco,2024,4,22.84
+Tabasco,2024,5,22.93
+Tabasco,2024,6,23.07
+Tabasco,2024,7,23.33
+Tabasco,2024,8,23.44
+Tabasco,2024,9,23.44
+Tabasco,2024,10,23.34
+Tabasco,2024,11,23.36
+Tabasco,2024,12,23.42
+Tabasco,2025,1,23.72
+Tabasco,2025,2,23.75
+Tabasco,2025,3,23.8
+Tabasco,2025,4,23.8
+Tamaulipas,2017,1,15.16
+Tamaulipas,2017,2,15.19
+Tamaulipas,2017,3,14.15
+Tamaulipas,2017,4,13.87
+Tamaulipas,2017,5,13.72
+Tamaulipas,2017,6,13.51
+Tamaulipas,2017,7,13.33
+Tamaulipas,2017,8,13.36
+Tamaulipas,2017,9,13.56
+Tamaulipas,2017,10,13.68
+Tamaulipas,2017,11,13.76
+Tamaulipas,2017,12,13.9
+Tamaulipas,2018,1,14.4
+Tamaulipas,2018,2,15.07
+Tamaulipas,2018,3,15.27
+Tamaulipas,2018,4,15.4
+Tamaulipas,2018,5,15.74
+Tamaulipas,2018,6,15.76
+Tamaulipas,2018,7,16.04
+Tamaulipas,2018,8,16.56
+Tamaulipas,2018,9,16.88
+Tamaulipas,2018,10,17.07
+Tamaulipas,2018,11,16.92
+Tamaulipas,2018,12,16.48
+Tamaulipas,2019,1,15.96
+Tamaulipas,2019,2,16.58
+Tamaulipas,2019,3,17.02
+Tamaulipas,2019,4,16.62
+Tamaulipas,2019,5,16.29
+Tamaulipas,2019,6,16.16
+Tamaulipas,2019,7,16.27
+Tamaulipas,2019,8,15.9
+Tamaulipas,2019,9,16.27
+Tamaulipas,2019,10,16.39
+Tamaulipas,2019,11,16.33
+Tamaulipas,2019,12,16.52
+Tamaulipas,2020,1,16.7
+Tamaulipas,2020,2,16.56
+Tamaulipas,2020,3,15.25
+Tamaulipas,2020,4,13.15
+Tamaulipas,2020,5,13.86
+Tamaulipas,2020,6,15.05
+Tamaulipas,2020,7,15.93
+Tamaulipas,2020,8,16.12
+Tamaulipas,2020,9,16.21
+Tamaulipas,2020,10,16.0
+Tamaulipas,2020,11,15.72
+Tamaulipas,2020,12,16.02
+Tamaulipas,2021,1,16.74
+Tamaulipas,2021,2,17.43
+Tamaulipas,2021,3,17.85
+Tamaulipas,2021,4,18.03
+Tamaulipas,2021,5,17.95
+Tamaulipas,2021,6,18.04
+Tamaulipas,2021,7,18.3
+Tamaulipas,2021,8,18.28
+Tamaulipas,2021,9,18.22
+Tamaulipas,2021,10,17.83
+Tamaulipas,2021,11,17.88
+Tamaulipas,2021,12,17.97
+Tamaulipas,2022,1,18.24
+Tamaulipas,2022,2,18.52
+Tamaulipas,2022,3,18.97
+Tamaulipas,2022,4,19.4
+Tamaulipas,2022,5,19.6
+Tamaulipas,2022,6,19.69
+Tamaulipas,2022,7,19.17
+Tamaulipas,2022,8,19.46
+Tamaulipas,2022,9,18.99
+Tamaulipas,2022,10,19.51
+Tamaulipas,2022,11,19.46
+Tamaulipas,2022,12,18.74
+Tamaulipas,2023,1,18.98
+Tamaulipas,2023,2,18.82
+Tamaulipas,2023,3,19.1
+Tamaulipas,2023,4,19.22
+Tamaulipas,2023,5,19.56
+Tamaulipas,2023,6,19.67
+Tamaulipas,2023,7,19.31
+Tamaulipas,2023,8,19.72
+Tamaulipas,2023,9,19.9
+Tamaulipas,2023,10,20.03
+Tamaulipas,2023,11,20.03
+Tamaulipas,2023,12,19.45
+Tamaulipas,2024,1,19.82
+Tamaulipas,2024,2,20.66
+Tamaulipas,2024,3,20.79
+Tamaulipas,2024,4,21.08
+Tamaulipas,2024,5,21.16
+Tamaulipas,2024,6,21.07
+Tamaulipas,2024,7,21.27
+Tamaulipas,2024,8,21.52
+Tamaulipas,2024,9,21.1
+Tamaulipas,2024,10,21.1
+Tamaulipas,2024,11,21.45
+Tamaulipas,2024,12,21.45
+Tamaulipas,2025,1,21.98
+Tamaulipas,2025,2,21.97
+Tamaulipas,2025,3,21.98
+Tamaulipas,2025,4,21.83
+Tlaxcala,2017,1,15.79
+Tlaxcala,2017,2,15.8
+Tlaxcala,2017,3,15.7
+Tlaxcala,2017,4,15.72
+Tlaxcala,2017,5,15.62
+Tlaxcala,2017,6,15.52
+Tlaxcala,2017,7,15.45
+Tlaxcala,2017,8,15.52
+Tlaxcala,2017,9,15.74
+Tlaxcala,2017,10,15.87
+Tlaxcala,2017,11,15.95
+Tlaxcala,2017,12,16.03
+Tlaxcala,2018,1,16.6
+Tlaxcala,2018,2,17.29
+Tlaxcala,2018,3,17.51
+Tlaxcala,2018,4,17.59
+Tlaxcala,2018,5,17.74
+Tlaxcala,2018,6,17.97
+Tlaxcala,2018,7,18.38
+Tlaxcala,2018,8,18.93
+Tlaxcala,2018,9,19.13
+Tlaxcala,2018,10,19.32
+Tlaxcala,2018,11,19.31
+Tlaxcala,2018,12,18.92
+Tlaxcala,2019,1,18.55
+Tlaxcala,2019,2,19.01
+Tlaxcala,2019,3,19.61
+Tlaxcala,2019,4,19.39
+Tlaxcala,2019,5,19.34
+Tlaxcala,2019,6,19.11
+Tlaxcala,2019,7,19.26
+Tlaxcala,2019,8,19.23
+Tlaxcala,2019,9,19.33
+Tlaxcala,2019,10,19.32
+Tlaxcala,2019,11,19.33
+Tlaxcala,2019,12,19.4
+Tlaxcala,2020,1,19.47
+Tlaxcala,2020,2,19.32
+Tlaxcala,2020,3,17.48
+Tlaxcala,2020,4,14.51
+Tlaxcala,2020,5,15.94
+Tlaxcala,2020,6,17.42
+Tlaxcala,2020,7,18.32
+Tlaxcala,2020,8,18.24
+Tlaxcala,2020,9,18.15
+Tlaxcala,2020,10,18.07
+Tlaxcala,2020,11,17.59
+Tlaxcala,2020,12,17.73
+Tlaxcala,2021,1,18.81
+Tlaxcala,2021,2,19.61
+Tlaxcala,2021,3,19.8
+Tlaxcala,2021,4,19.78
+Tlaxcala,2021,5,19.8
+Tlaxcala,2021,6,19.88
+Tlaxcala,2021,7,20.01
+Tlaxcala,2021,8,19.91
+Tlaxcala,2021,9,19.69
+Tlaxcala,2021,10,19.6
+Tlaxcala,2021,11,19.44
+Tlaxcala,2021,12,19.69
+Tlaxcala,2022,1,20.14
+Tlaxcala,2022,2,20.36
+Tlaxcala,2022,3,20.77
+Tlaxcala,2022,4,20.98
+Tlaxcala,2022,5,21.08
+Tlaxcala,2022,6,21.15
+Tlaxcala,2022,7,21.32
+Tlaxcala,2022,8,21.34
+Tlaxcala,2022,9,21.13
+Tlaxcala,2022,10,21.41
+Tlaxcala,2022,11,21.27
+Tlaxcala,2022,12,21.09
+Tlaxcala,2023,1,21.41
+Tlaxcala,2023,2,21.4
+Tlaxcala,2023,3,21.46
+Tlaxcala,2023,4,21.62
+Tlaxcala,2023,5,21.62
+Tlaxcala,2023,6,21.66
+Tlaxcala,2023,7,21.76
+Tlaxcala,2023,8,21.97
+Tlaxcala,2023,9,21.89
+Tlaxcala,2023,10,21.79
+Tlaxcala,2023,11,21.75
+Tlaxcala,2023,12,21.71
+Tlaxcala,2024,1,22.0
+Tlaxcala,2024,2,22.7
+Tlaxcala,2024,3,22.74
+Tlaxcala,2024,4,22.83
+Tlaxcala,2024,5,22.95
+Tlaxcala,2024,6,23.1
+Tlaxcala,2024,7,23.44
+Tlaxcala,2024,8,23.64
+Tlaxcala,2024,9,23.52
+Tlaxcala,2024,10,23.54
+Tlaxcala,2024,11,23.6
+Tlaxcala,2024,12,23.57
+Tlaxcala,2025,1,23.88
+Tlaxcala,2025,2,23.68
+Tlaxcala,2025,3,23.55
+Tlaxcala,2025,4,23.52
+Veracruz de Ignacio de la Llave,2017,1,15.52
+Veracruz de Ignacio de la Llave,2017,2,15.53
+Veracruz de Ignacio de la Llave,2017,3,15.44
+Veracruz de Ignacio de la Llave,2017,4,15.47
+Veracruz de Ignacio de la Llave,2017,5,15.38
+Veracruz de Ignacio de la Llave,2017,6,15.27
+Veracruz de Ignacio de la Llave,2017,7,15.19
+Veracruz de Ignacio de la Llave,2017,8,15.26
+Veracruz de Ignacio de la Llave,2017,9,15.49
+Veracruz de Ignacio de la Llave,2017,10,15.61
+Veracruz de Ignacio de la Llave,2017,11,15.69
+Veracruz de Ignacio de la Llave,2017,12,15.82
+Veracruz de Ignacio de la Llave,2018,1,16.36
+Veracruz de Ignacio de la Llave,2018,2,16.97
+Veracruz de Ignacio de la Llave,2018,3,17.2
+Veracruz de Ignacio de la Llave,2018,4,17.31
+Veracruz de Ignacio de la Llave,2018,5,17.47
+Veracruz de Ignacio de la Llave,2018,6,17.68
+Veracruz de Ignacio de la Llave,2018,7,18.02
+Veracruz de Ignacio de la Llave,2018,8,18.55
+Veracruz de Ignacio de la Llave,2018,9,18.79
+Veracruz de Ignacio de la Llave,2018,10,18.98
+Veracruz de Ignacio de la Llave,2018,11,18.95
+Veracruz de Ignacio de la Llave,2018,12,18.63
+Veracruz de Ignacio de la Llave,2019,1,18.31
+Veracruz de Ignacio de la Llave,2019,2,18.65
+Veracruz de Ignacio de la Llave,2019,3,19.17
+Veracruz de Ignacio de la Llave,2019,4,19.03
+Veracruz de Ignacio de la Llave,2019,5,18.92
+Veracruz de Ignacio de la Llave,2019,6,18.81
+Veracruz de Ignacio de la Llave,2019,7,18.88
+Veracruz de Ignacio de la Llave,2019,8,18.84
+Veracruz de Ignacio de la Llave,2019,9,18.91
+Veracruz de Ignacio de la Llave,2019,10,18.9
+Veracruz de Ignacio de la Llave,2019,11,18.87
+Veracruz de Ignacio de la Llave,2019,12,19.0
+Veracruz de Ignacio de la Llave,2020,1,19.1
+Veracruz de Ignacio de la Llave,2020,2,19.01
+Veracruz de Ignacio de la Llave,2020,3,17.4
+Veracruz de Ignacio de la Llave,2020,4,14.75
+Veracruz de Ignacio de la Llave,2020,5,15.85
+Veracruz de Ignacio de la Llave,2020,6,17.22
+Veracruz de Ignacio de la Llave,2020,7,18.25
+Veracruz de Ignacio de la Llave,2020,8,18.3
+Veracruz de Ignacio de la Llave,2020,9,18.29
+Veracruz de Ignacio de la Llave,2020,10,18.1
+Veracruz de Ignacio de la Llave,2020,11,17.7
+Veracruz de Ignacio de la Llave,2020,12,17.87
+Veracruz de Ignacio de la Llave,2021,1,18.84
+Veracruz de Ignacio de la Llave,2021,2,19.65
+Veracruz de Ignacio de la Llave,2021,3,20.0
+Veracruz de Ignacio de la Llave,2021,4,20.14
+Veracruz de Ignacio de la Llave,2021,5,20.21
+Veracruz de Ignacio de la Llave,2021,6,20.19
+Veracruz de Ignacio de la Llave,2021,7,20.23
+Veracruz de Ignacio de la Llave,2021,8,20.27
+Veracruz de Ignacio de la Llave,2021,9,20.29
+Veracruz de Ignacio de la Llave,2021,10,20.26
+Veracruz de Ignacio de la Llave,2021,11,20.15
+Veracruz de Ignacio de la Llave,2021,12,20.33
+Veracruz de Ignacio de la Llave,2022,1,20.67
+Veracruz de Ignacio de la Llave,2022,2,20.84
+Veracruz de Ignacio de la Llave,2022,3,21.07
+Veracruz de Ignacio de la Llave,2022,4,21.25
+Veracruz de Ignacio de la Llave,2022,5,21.39
+Veracruz de Ignacio de la Llave,2022,6,21.41
+Veracruz de Ignacio de la Llave,2022,7,21.52
+Veracruz de Ignacio de la Llave,2022,8,21.63
+Veracruz de Ignacio de la Llave,2022,9,21.48
+Veracruz de Ignacio de la Llave,2022,10,21.7
+Veracruz de Ignacio de la Llave,2022,11,21.64
+Veracruz de Ignacio de la Llave,2022,12,21.41
+Veracruz de Ignacio de la Llave,2023,1,21.61
+Veracruz de Ignacio de la Llave,2023,2,21.57
+Veracruz de Ignacio de la Llave,2023,3,21.61
+Veracruz de Ignacio de la Llave,2023,4,21.71
+Veracruz de Ignacio de la Llave,2023,5,21.68
+Veracruz de Ignacio de la Llave,2023,6,21.83
+Veracruz de Ignacio de la Llave,2023,7,21.96
+Veracruz de Ignacio de la Llave,2023,8,22.09
+Veracruz de Ignacio de la Llave,2023,9,22.15
+Veracruz de Ignacio de la Llave,2023,10,21.98
+Veracruz de Ignacio de la Llave,2023,11,21.98
+Veracruz de Ignacio de la Llave,2023,12,21.92
+Veracruz de Ignacio de la Llave,2024,1,22.14
+Veracruz de Ignacio de la Llave,2024,2,22.86
+Veracruz de Ignacio de la Llave,2024,3,23.1
+Veracruz de Ignacio de la Llave,2024,4,23.19
+Veracruz de Ignacio de la Llave,2024,5,23.25
+Veracruz de Ignacio de la Llave,2024,6,23.25
+Veracruz de Ignacio de la Llave,2024,7,23.67
+Veracruz de Ignacio de la Llave,2024,8,23.81
+Veracruz de Ignacio de la Llave,2024,9,23.8
+Veracruz de Ignacio de la Llave,2024,10,23.69
+Veracruz de Ignacio de la Llave,2024,11,23.64
+Veracruz de Ignacio de la Llave,2024,12,23.65
+Veracruz de Ignacio de la Llave,2025,1,24.1
+Veracruz de Ignacio de la Llave,2025,2,24.05
+Veracruz de Ignacio de la Llave,2025,3,23.8
+Veracruz de Ignacio de la Llave,2025,4,23.79
+YucatÃ¡n,2017,1,15.44
+YucatÃ¡n,2017,2,15.41
+YucatÃ¡n,2017,3,15.34
+YucatÃ¡n,2017,4,15.36
+YucatÃ¡n,2017,5,15.26
+YucatÃ¡n,2017,6,15.17
+YucatÃ¡n,2017,7,15.09
+YucatÃ¡n,2017,8,15.16
+YucatÃ¡n,2017,9,15.38
+YucatÃ¡n,2017,10,15.5
+YucatÃ¡n,2017,11,15.59
+YucatÃ¡n,2017,12,15.73
+YucatÃ¡n,2018,1,16.33
+YucatÃ¡n,2018,2,16.88
+YucatÃ¡n,2018,3,17.14
+YucatÃ¡n,2018,4,17.25
+YucatÃ¡n,2018,5,17.39
+YucatÃ¡n,2018,6,17.64
+YucatÃ¡n,2018,7,18.08
+YucatÃ¡n,2018,8,18.78
+YucatÃ¡n,2018,9,19.05
+YucatÃ¡n,2018,10,19.2
+YucatÃ¡n,2018,11,19.21
+YucatÃ¡n,2018,12,18.81
+YucatÃ¡n,2019,1,18.52
+YucatÃ¡n,2019,2,19.32
+YucatÃ¡n,2019,3,19.93
+YucatÃ¡n,2019,4,19.3
+YucatÃ¡n,2019,5,19.16
+YucatÃ¡n,2019,6,19.06
+YucatÃ¡n,2019,7,19.34
+YucatÃ¡n,2019,8,19.3
+YucatÃ¡n,2019,9,19.46
+YucatÃ¡n,2019,10,19.29
+YucatÃ¡n,2019,11,19.32
+YucatÃ¡n,2019,12,19.45
+YucatÃ¡n,2020,1,19.63
+YucatÃ¡n,2020,2,19.46
+YucatÃ¡n,2020,3,17.95
+YucatÃ¡n,2020,4,15.75
+YucatÃ¡n,2020,5,16.87
+YucatÃ¡n,2020,6,18.18
+YucatÃ¡n,2020,7,18.94
+YucatÃ¡n,2020,8,19.01
+YucatÃ¡n,2020,9,19.13
+YucatÃ¡n,2020,10,19.24
+YucatÃ¡n,2020,11,18.59
+YucatÃ¡n,2020,12,18.75
+YucatÃ¡n,2021,1,19.6
+YucatÃ¡n,2021,2,20.48
+YucatÃ¡n,2021,3,20.65
+YucatÃ¡n,2021,4,20.82
+YucatÃ¡n,2021,5,20.53
+YucatÃ¡n,2021,6,20.73
+YucatÃ¡n,2021,7,20.93
+YucatÃ¡n,2021,8,21.05
+YucatÃ¡n,2021,9,20.93
+YucatÃ¡n,2021,10,20.84
+YucatÃ¡n,2021,11,20.77
+YucatÃ¡n,2021,12,21.01
+YucatÃ¡n,2022,1,21.39
+YucatÃ¡n,2022,2,21.51
+YucatÃ¡n,2022,3,21.82
+YucatÃ¡n,2022,4,21.94
+YucatÃ¡n,2022,5,22.07
+YucatÃ¡n,2022,6,22.09
+YucatÃ¡n,2022,7,22.19
+YucatÃ¡n,2022,8,22.19
+YucatÃ¡n,2022,9,22.12
+YucatÃ¡n,2022,10,22.46
+YucatÃ¡n,2022,11,22.28
+YucatÃ¡n,2022,12,21.92
+YucatÃ¡n,2023,1,22.31
+YucatÃ¡n,2023,2,22.48
+YucatÃ¡n,2023,3,22.53
+YucatÃ¡n,2023,4,22.45
+YucatÃ¡n,2023,5,22.25
+YucatÃ¡n,2023,6,22.38
+YucatÃ¡n,2023,7,22.55
+YucatÃ¡n,2023,8,22.79
+YucatÃ¡n,2023,9,22.71
+YucatÃ¡n,2023,10,22.64
+YucatÃ¡n,2023,11,22.57
+YucatÃ¡n,2023,12,22.29
+YucatÃ¡n,2024,1,23.0
+YucatÃ¡n,2024,2,23.64
+YucatÃ¡n,2024,3,23.55
+YucatÃ¡n,2024,4,24.17
+YucatÃ¡n,2024,5,24.09
+YucatÃ¡n,2024,6,23.62
+YucatÃ¡n,2024,7,23.94
+YucatÃ¡n,2024,8,23.86
+YucatÃ¡n,2024,9,24.4
+YucatÃ¡n,2024,10,24.38
+YucatÃ¡n,2024,11,24.23
+YucatÃ¡n,2024,12,23.79
+YucatÃ¡n,2025,1,24.65
+YucatÃ¡n,2025,2,24.44
+YucatÃ¡n,2025,3,24.05
+YucatÃ¡n,2025,4,23.98
+Zacatecas,2017,1,16.19
+Zacatecas,2017,2,16.21
+Zacatecas,2017,3,16.12
+Zacatecas,2017,4,16.14
+Zacatecas,2017,5,16.05
+Zacatecas,2017,6,15.96
+Zacatecas,2017,7,15.87
+Zacatecas,2017,8,15.94
+Zacatecas,2017,9,16.16
+Zacatecas,2017,10,16.29
+Zacatecas,2017,11,16.37
+Zacatecas,2017,12,16.57
+Zacatecas,2018,1,17.28
+Zacatecas,2018,2,18.11
+Zacatecas,2018,3,18.36
+Zacatecas,2018,4,18.47
+Zacatecas,2018,5,18.59
+Zacatecas,2018,6,18.79
+Zacatecas,2018,7,19.16
+Zacatecas,2018,8,19.69
+Zacatecas,2018,9,19.94
+Zacatecas,2018,10,20.12
+Zacatecas,2018,11,20.1
+Zacatecas,2018,12,19.82
+Zacatecas,2019,1,19.63
+Zacatecas,2019,2,19.91
+Zacatecas,2019,3,20.23
+Zacatecas,2019,4,19.92
+Zacatecas,2019,5,19.82
+Zacatecas,2019,6,19.73
+Zacatecas,2019,7,19.77
+Zacatecas,2019,8,19.7
+Zacatecas,2019,9,19.8
+Zacatecas,2019,10,19.74
+Zacatecas,2019,11,19.73
+Zacatecas,2019,12,19.89
+Zacatecas,2020,1,19.93
+Zacatecas,2020,2,19.79
+Zacatecas,2020,3,18.62
+Zacatecas,2020,4,15.88
+Zacatecas,2020,5,16.57
+Zacatecas,2020,6,17.88
+Zacatecas,2020,7,18.92
+Zacatecas,2020,8,19.02
+Zacatecas,2020,9,19.02
+Zacatecas,2020,10,18.84
+Zacatecas,2020,11,18.46
+Zacatecas,2020,12,18.49
+Zacatecas,2021,1,19.29
+Zacatecas,2021,2,19.98
+Zacatecas,2021,3,20.38
+Zacatecas,2021,4,20.56
+Zacatecas,2021,5,20.67
+Zacatecas,2021,6,20.76
+Zacatecas,2021,7,20.86
+Zacatecas,2021,8,20.87
+Zacatecas,2021,9,20.76
+Zacatecas,2021,10,20.71
+Zacatecas,2021,11,20.6
+Zacatecas,2021,12,20.72
+Zacatecas,2022,1,21.01
+Zacatecas,2022,2,21.15
+Zacatecas,2022,3,21.56
+Zacatecas,2022,4,21.96
+Zacatecas,2022,5,22.15
+Zacatecas,2022,6,22.35
+Zacatecas,2022,7,22.44
+Zacatecas,2022,8,22.44
+Zacatecas,2022,9,22.12
+Zacatecas,2022,10,22.2
+Zacatecas,2022,11,22.02
+Zacatecas,2022,12,21.85
+Zacatecas,2023,1,22.05
+Zacatecas,2023,2,22.1
+Zacatecas,2023,3,22.16
+Zacatecas,2023,4,22.2
+Zacatecas,2023,5,22.1
+Zacatecas,2023,6,22.21
+Zacatecas,2023,7,22.37
+Zacatecas,2023,8,22.56
+Zacatecas,2023,9,22.53
+Zacatecas,2023,10,22.54
+Zacatecas,2023,11,22.69
+Zacatecas,2023,12,22.55
+Zacatecas,2024,1,22.71
+Zacatecas,2024,2,23.13
+Zacatecas,2024,3,23.27
+Zacatecas,2024,4,23.49
+Zacatecas,2024,5,23.67
+Zacatecas,2024,6,23.85
+Zacatecas,2024,7,24.19
+Zacatecas,2024,8,24.39
+Zacatecas,2024,9,24.49
+Zacatecas,2024,10,24.61
+Zacatecas,2024,11,24.69
+Zacatecas,2024,12,24.79
+Zacatecas,2025,1,25.05
+Zacatecas,2025,2,25.05
+Zacatecas,2025,3,24.18
+Zacatecas,2025,4,24.02
